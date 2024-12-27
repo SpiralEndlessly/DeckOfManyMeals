@@ -1,0 +1,35 @@
+index = 1
+name = "Spanische Kichererbsen mit Reis"
+cook_time = 40
+prep_time = 10
+kind = 0
+
+[ingredients]
+
+[ingredients.veg]
+name = "Frucht & Gemüse"
+content = ["2 Knoblauchzehen", "1 Gelbe Zwiebel", "1 Bund Petersilie", "1 Zitrone"]
+
+[ingredients.meat]
+name = "Fleisch"
+content = []
+
+[ingredients.dairy]
+name = "Milchprodukte"
+content = []
+
+[ingredients.dry]
+name = "Trockenes"
+content = ["1 Tasse Langkornreis", "Pulver für 350ml Gemüsebrühe"]
+
+[ingredients.can]
+name = "Dosen & Gläser"
+content = ["1 Dose gehackte Tomaten", "1 Dose geviertelte Artischocken-|herzen", "1 Dose Kichererbsen"]
+
+[ingredients.bake]
+name = "Backwaren"
+content = []
+
+[ingredients.spice]
+name = "Gewürze & Saucen"
+content = ["Olivenöl", "Geräucherter Paprika", "Gemahlener Kümmel", "Getrockneter Oregano", "Cayennepfeffer", "Pfeffer", "Salz"]
