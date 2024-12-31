@@ -1,0 +1,42 @@
+index = 2
+name = "Ahorn Miso Röstkarotten"
+cook_time = "45 min"
+prep_time = "25 min"
+portions = 4
+store_time = "4-5 Tage"
+energy = "367.85 kcal"
+kind = 1
+instructions = [
+    "Reis nach Packungsanleitung in Wasser mit Salz kochen.",
+    "Ofen auf 200 °C vorheizen. Miso, Ahornsirup, geschmolzene Butter, geriebenen Ingwer und Sojasoße in einer Schüssel glatt rühren.",
+    "Karotten schälen und in etwa 2,5 cm lange Stücke schneiden (dickere Stücke etwas kürzer, dünnere Stücke etwas länger schneiden). Karottenstücke auf ein Backblech mit Antihaftbeschichtung oder ein mit Folie ausgelegtes Backblech legen.",
+    "Ahorn-Miso-Butter über die Karotten gießen und die Karotten wenden, bis sie gleichmäßig bedeckt sind. Karottenstücke so auf dem Backblech verteilen, dass zwischen den Stücken etwas Platz bleibt, um die Karamellisierung der Ahorn-Miso-Butter zu ermöglichen.",
+    "Karotten 15 Minuten im Ofen rösten, dann umrühren. Anschließend wieder gleichmäßig verteilen und für weitere 15 Minuten in den Ofen geben. Falls die Karotten noch nicht goldbraun sind, erneut umrühren und 5–10 Minuten länger rösten, bis die gewünschte Bräunung erreicht ist.",
+    "Holzige Stiele der Grünkohlblätter entfernen, entweder durch Abschneiden entlang beider Seiten mit einem scharfen Messer oder durch Abziehen des Blattes von der Basis zur Spitze. Blätter stapeln und quer in etwa 2,5 cm breite Streifen schneiden. Grünkohlblätter in einem Sieb unter kaltem fließendem Wasser gründlich waschen.",
+    "Knoblauch fein hacken und mit einem Esslöffel neutralem Speiseöl (oder bevorzugtem Speiseöl) in einen großen Topf geben. Knoblauch etwa eine Minute bei mittlerer Hitze sautieren.",
+    "Gewaschene Grünkohlblätter in den Topf geben. Grünkohl umrühren und etwa 5 Minuten garen, bis er welk und glänzend ist. Für zartere Blätter die Garzeit verlängern.",
+    "Sojasoße, geröstetes Sesamöl und Sesamsamen hinzufügen und alles gut umrühren, bis der Grünkohl gleichmäßig bedeckt ist. Abschmecken und nach Bedarf würzen. Warm servieren.",
+    "Sobald der Reis fertig gekocht ist mit der Gabel auflockern, und Sesamöl hineinmischen. Alles gemeinsam servieren.",
+]
+subheaders = ["Röstkarotten", "Sesamkohl", "Sesamreis"]
+
+[ingredients]
+"#weiße Misopaste" = { amount = 2, unit = " EL", kind = 6, sub = 0 }
+"#Ahornsirup" = { amount = 2, unit = " EL", kind = 6, sub = 0 }
+"#Butter" = { amount = 1, unit = " EL", kind = 2, sub = 0 }
+"#geriebener Ingwer" = { amount = 1, unit = " TL", kind = 0, sub = 0 }
+"#Sojasauce" = [
+    { amount = 1, unit = " TL", kind = 6, sub = 0 },
+    { amount = 3, unit = " TL", kind = 6, sub = 1 },
+]
+"#Karotten" = { amount = 450, unit = "g", kind = 0, sub = 0 }
+"#Kohl" = { amount = 250, unit = "g", kind = 0, sub = 1 }
+"#Sonnenblumenöl" = { amount = 1, unit = " EL", kind = 6, sub = 1 }
+"#Knoblauchzehen" = { amount = 2, unit = "", kind = 0, sub = 1 }
+"#geröstetes Sesamöl" = [
+    { amount = 1, unit = " TL", kind = 6, sub = 1 },
+    { amount = 2, unit = " TL", kind = 6, sub = 2 },
+]
+"#Sesam" = { amount = 1, unit = " EL", kind = 6, sub = 1 }
+"#Basmatireis" = { amount = 2, unit = " Tassen", kind = 3, sub = 2 }
+"#Salz" = { amount = 0.5, unit = " TL", kind = 6, sub = 2 }

@@ -1,35 +1,35 @@
 index = 1
-name = "Spanische Kichererbsen mit Reis"
-cook_time = 40
-prep_time = 10
+name = "Spanische Kichererbsen|mit Reis"
+cook_time = "40 min"
+prep_time = "10 min"
+portions = 4
+store_time = "4-5 Tage"
+energy = "486.25 kcal"
 kind = 0
+instructions = [
+    "Etwas über 350ml Wasser zum kochen bringen und Gemüsebrühe nach Anleitung zubereiten.",
+    "Den Knoblauch fein hacken und zusammen mit dem Olivenöl in eine große, tiefe Pfanne geben. Bei mittlerer bis niedriger Hitze 1–2 Minuten anbraten, bis der Knoblauch weich und duftend ist. Das geräucherte Paprikapulver, den Kreuzkümmel, den Oregano, den Cayennepfeffer und etwas frisch gemahlenen schwarzen Pfeffer in die Pfanne geben. Umrühren und die Gewürze eine weitere Minute in dem heißen Öl anbraten.",
+    "Die Zwiebel würfeln und zur Pfanne hinzufügen. Die Zwiebel anbraten, bis sie weich und glasig ist (etwa 5 Minuten). Den ungekochten Reis hinzufügen und 2 Minuten lang mit anbraten.",
+    "Die Kichererbsen und Artischockenherzen abtropfen lassen und zusammen mit der Dose gewürfelter Tomaten (inklusive Saft), der Gemüsebrühe und einem halben Teelöffel Salz in die Pfanne geben. Die Petersilie grob hacken und ebenfalls in die Pfanne geben, dabei eine kleine Menge zurückbehalten, um das fertige Gericht später zu garnieren. Alle Zutaten in der Pfanne gut umrühren, bis sie gleichmäßig vermischt sind.",
+    "Einen Deckel auf die Pfanne setzen und die Hitze auf mittelhoch stellen. Die Pfanne zum Kochen bringen. Sobald es kocht, die Hitze auf niedrig stellen und 20 Minuten köcheln lassen. Achte darauf, dass es die ganze Zeit leicht köchelt, und erhöhe die Hitze bei Bedarf leicht, um das Köcheln aufrechtzuerhalten.",
+    "Nach 20 Minuten die Hitze ausschalten und die Pfanne 5 Minuten ruhen lassen, ohne den Deckel zu entfernen. Den Deckel abnehmen, den Reis mit einer Gabel auflockern und mit der restlichen gehackten Petersilie bestreuen. Die Zitrone in Spalten schneiden und den frischen Saft über jede Portion pressen.",
+]
+subheaders = []
 
 [ingredients]
-
-[ingredients.veg]
-name = "Frucht & Gemüse"
-content = ["2 Knoblauchzehen", "1 Gelbe Zwiebel", "1 Bund Petersilie", "1 Zitrone"]
-
-[ingredients.meat]
-name = "Fleisch"
-content = []
-
-[ingredients.dairy]
-name = "Milchprodukte"
-content = []
-
-[ingredients.dry]
-name = "Trockenes"
-content = ["1 Tasse Langkornreis", "Pulver für 350ml Gemüsebrühe"]
-
-[ingredients.can]
-name = "Dosen & Gläser"
-content = ["1 Dose gehackte Tomaten", "1 Dose geviertelte Artischocken-|herzen", "1 Dose Kichererbsen"]
-
-[ingredients.bake]
-name = "Backwaren"
-content = []
-
-[ingredients.spice]
-name = "Gewürze & Saucen"
-content = ["Olivenöl", "Geräucherter Paprika", "Gemahlener Kümmel", "Getrockneter Oregano", "Cayennepfeffer", "Pfeffer", "Salz"]
+"#geräucherter Paprika" = { amount = 0.5, unit = " EL", kind = 6 }
+"#gemahlener Kümmel" = { amount = 1, unit = " TL", kind = 6 }
+"#Knoblauchzehen" = { amount = 2, unit = "", kind = 0 }
+"#Gelbe Zwiebel" = { amount = 1, unit = "", kind = 0 }
+"#Petersilie" = { amount = 1, unit = " Bund", kind = 0 }
+"#Zitrone" = { amount = 1, unit = "", kind = 0 }
+"#Langkornreis" = { amount = 1, unit = " Tasse", kind = 3 }
+"Pulver für #Gemüse-|brühe" = { amount = 350, unit = "ml", kind = 3 }
+"#gehackte Tomaten" = { amount = 1, unit = " Dose", kind = 4 }
+"#geviertelte|Artischockenherzen" = { amount = 1, unit = " Dose", kind = 4 }
+"#Kichererbsen" = { amount = 1, unit = " Dose", kind = 4 }
+"#Olivenöl" = { amount = 2, unit = " EL", kind = 6 }
+"#Getrockneter Oregano" = { amount = 0.5, unit = " TL", kind = 6 }
+"#Cayennepfeffer" = { amount = 0.25, unit = " TL", kind = 6 }
+"#Pfeffer" = { kind = 6 }
+"#Salz" = { amount = 0.5, unit = " TL", kind = 6 }
