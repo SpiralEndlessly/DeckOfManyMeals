@@ -1,0 +1,17 @@
+index = 0
+name = ""
+cook_time = " min"
+prep_time = " min"
+portions = 0
+store_time = " Tage"
+energy = " kcal"
+kind = 0
+instructions = [""]
+subheaders = []
+
+[ingredients]
+"a" = { amount = 0, unit = "", kind = 9 }
+"b" = [
+    { amount = 0, unit = "", kind = 9, sub = 0 },
+    { amount = 0, unit = "", kind = 9, sub = 1 },
+]
