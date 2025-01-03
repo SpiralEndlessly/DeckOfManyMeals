@@ -1,0 +1,53 @@
+index = 10
+name = "Marinierter Tofu |in scharfer Erdnusssauce"
+cook_time = "60 min"
+prep_time = "20 min"
+portions = 4
+store_time = "5 Tage"
+energy = "654.75 kcal"
+kind = 0
+instructions = [
+    "Beginne damit, den Tofu für etwa 30 Minuten zu pressen, um überschüssige Feuchtigkeit zu entfernen. Lege den Tofu zwischen zwei flache Teller, Backbleche mit Rand oder Schneidebretter und lege etwas Schweres oben drauf, wie eine gusseiserne Pfanne oder einen Topf mit Wasser.",
+    "Während der Tofu gepresst wird, beginne mit dem Reis. Koche den Reis nach den Anweisungen auf der Verpackung, achte darauf, Salz hinzuzufügen. Sobald der Reis fertig ist, lockere ihn mit einer Gabel und mische 1 EL geröstetes Sesamöl hinein. Stelle den Reis beiseite",
+    "Sobald der Tofu gepresst ist, gieße die überschüssige Flüssigkeit ab. Schneide den Tofu in 16 Dreiecke. Lege die Tofustücke in eine flache Schüssel.",
+    "In einer kleinen Schüssel die Zutaten für die Tofu-Marinade vermengen: Öl, Sojasauce, gehackten Knoblauch und braunen Zucker. Gieße die Marinade über die Tofustücke und drehe sie, damit alle Seiten bedeckt sind. Lasse den Tofu etwa 20 Minuten marinieren, drehe die Stücke einmal oder zweimal während dieser Zeit.",
+    "Vermenge in einer Schüssel die Erdnussbutter, Sriracha, Sojasauce, geriebenen Ingwer, braunen Zucker und genug heißes Wasser, um eine glatte Sauce zu erhalten (3-4 EL). Stelle die Sauce beiseite.",
+    "Sobald der Tofu mariniert ist, erhitze eine große antihaftbeschichtete Pfanne bei mittlerer Hitze. Gebe 1 EL Öl in die Pfanne und schwenke, um die Pfanne zu beschichten. Füge die Tofustücke und die restliche Marinade hinzu und brate sie auf jeder Seite, bis sie tiefbraun sind.",
+    "Sobald die Tofustücke braun sind, nehme sie aus der Pfanne und füge die Zuckerschoten hinzu. Sauté die Zuckerschoten schnell in der Pfanne, bis sie leuchtend grün werden und noch knackig sind.",
+    "Um die Portionen zusammenzustellen, gebe etwa 1.5 Tassen Sesamreis in jede Schale und toppe ihn mit 1/4 der Tofustücke und Zuckerschoten. Träufle die scharfe Erdnusssauce über jede Schale und bestreue sie mit geschnittenen Frühlingszwiebeln und Sesam.",
+]
+subheaders = [
+    "Marinierter Tofu",
+    "Sesamreis",
+    "Scharfe Erdnusssauce",
+    "Restliche Zutaten",
+]
+
+[ingredients]
+"#Tofu" = { amount = 400, unit = "g", kind = 7, sub = 0 }
+"#Sonnenblumenöl" = [
+    { amount = 1, unit = " EL", kind = 6, sub = 0 },
+    { amount = 1, unit = " EL", kind = 6, sub = 3 },
+]
+"#Sojasauce" = [
+    { amount = 2, unit = " EL", kind = 6, sub = 0 },
+    { amount = 0.5, unit = " EL", kind = 6, sub = 2 },
+]
+"#Knoblauchzehen" = { amount = 1, unit = "", kind = 0, sub = 0 }
+"#brauner Zucker" = [
+    { amount = 3, unit = " TL", kind = 6, sub = 0 },
+    { amount = 1, unit = " TL", kind = 6, sub = 2 },
+]
+
+"#brauner Reis" = { amount = 2, unit = " Tassen", kind = 3, sub = 1 }
+"#Salz" = { amount = 0.5, unit = " TL", kind = 6, sub = 1 }
+"#geröstetes Sesamöl" = { amount = 1, unit = " EL", kind = 6, sub = 1 }
+
+"#cremige Erdnuss-|butter" = { amount = 65, unit = "g", kind = 3, sub = 2 }
+"#Sriracha" = { amount = 1, unit = " EL", kind = 6, sub = 2 }
+"#geriebener Ingwer" = { amount = 1, unit = " TL", kind = 0, sub = 2 }
+#"#heißes Wasser" = { amount = 3, unit = " EL", kind = 3, sub = 2 } 
+
+"#Zuckerschoten" = { amount = 250, unit = "g", kind = 0, sub = 3 }
+"#Frühlingszwiebeln" = { amount = 2, unit = "", kind = 0, sub = 3 }
+"#Sesam" = { amount = 1, unit = " EL", kind = 6, sub = 3 }

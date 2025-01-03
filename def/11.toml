@@ -1,0 +1,37 @@
+index = 11
+name = "Buffalo Bohnen"
+cook_time = "35 min"
+prep_time = "20 min"
+portions = 4
+store_time = "4 Tage"
+energy = " kcal"
+kind = 1
+instructions = [
+    "Koche den Reis nach den Anweisungen auf der Verpackung.",
+    "Die Cannellini-Bohnen abtropfen lassen und abspülen. Schneide Sellerie, gelbe Zwiebel und Karotten in kleine Würfel.",
+    "Füge die Butter, den Sellerie, die Zwiebeln und die Karotten in eine große Pfanne. Sauté bei mittlerer Hitze für 3-4 Minuten, oder bis das Gemüse beginnt, weich zu werden. Füge den Knoblauch hinzu und brate ihn für weitere 1-2 Minuten an.",
+    "Füge die weißen Bohnen, die Buffalo-style Hot Sauce und 2 EL Wasser in die Pfanne. Rühre um und koche bei mittlerer Hitze, bis die Bohnen durchgewärmt sind.",
+    "Füge den Grünkohl in die Pfanne und rühre, bis er hellgrün und welk ist.",
+    "Kombiniere alle Ranch Dressing Zutaten in einer Schüssel und rühre sie zusammen.",
+    "Die Zutaten der Pfanne auf dem Reis verteilen und mit dem Ranch Dressing beträufeln. Nach Belieben mit Salz und Pfeffer abschmecken.",
+]
+subheaders = ["Bohnen", "Ranch Dressing"]
+
+[ingredients]
+"#Butter" = { amount = 4, unit = " EL", kind = 2, sub = 0 }
+"#gelbe Zwiebeln" = { amount = 0.5, unit = "", kind = 0, sub = 0 }
+"#Selleriestangen" = { amount = 3, unit = "", kind = 0, sub = 0 }
+"#Karotten" = { amount = 2, unit = "", kind = 0, sub = 0 }
+"#Knoblauchzehen" = { amount = 6, unit = "", kind = 0, sub = 0 }
+"#weiße Bohnen" = { amount = 2, unit = " Dosen", kind = 4, sub = 0 }
+"#Kohl" = { amount = 1, unit = " Kopf", kind = 0, sub = 0 }
+"#Reis" = { amount = 1, unit = " Tasse", kind = 3, sub = 0 }
+
+"#Mayonnaise" = { amount = 60, unit = "ml", kind = 2, sub = 1 }
+"#Joghurt" = { amount = 60, unit = "ml", kind = 2, sub = 1 }
+"#Zitronensaft" = { amount = 1, unit = " TL", kind = 6, sub = 1 }
+"#Knoblauchpulver" = { amount = 0.25, unit = " TL", kind = 6, sub = 1 }
+"#Zwiebelpulver" = { amount = 0.125, unit = " TL", kind = 6, sub = 1 }
+"#gehackte Petersilie" = { amount = 1, unit = " EL", kind = 0, sub = 1 }
+"#Frühlingszwiebel" = { amount = 1, unit = "", kind = 0, sub = 1 }
+"#Pfeffer" = { kind = 6, sub = 1 }

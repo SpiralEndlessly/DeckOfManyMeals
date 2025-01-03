@@ -30,7 +30,7 @@ subheaders = [
 
 "#Blaubeermarmelade" = { amount = 1, unit = " TL", kind = 4, sub = 1 }
 "#Erdnüsse" = { amount = 1, unit = " EL", kind = 3, sub = 1 }
-"#Erdnussbutter" = { amount = 1, unit = " EL", kind = 4, sub = 1 }
+"#knusprige Erdnussbutter" = { amount = 1, unit = " EL", kind = 4, sub = 1 }
 "#Blaubeeren" = { amount = 1, unit = " handvoll", kind = 0, sub = 1 }
 
 "#Himbeermarmelade" = { amount = 1, unit = " TL", kind = 4, sub = 2 }

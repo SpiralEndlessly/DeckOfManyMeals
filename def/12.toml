@@ -1,0 +1,28 @@
+index = 12
+name = "Pesto Huhn mit Gemüse"
+cook_time = "15 min"
+prep_time = "15 min"
+portions = 4
+store_time = "3 Tage"
+energy = "369.33 kcal"
+kind = 2
+instructions = [
+    "Schneide die Paprika, die Zucchini und die rote Zwiebel in Scheiben. Schneide die Hähnchenbrust in 1,5 cm große Würfel.",
+    "Erhitze das Sonnenblumenöl in einer großen Pfanne bei mittelhoher Hitze. Sobald die Pfanne und das Öl sehr heiß sind, füge das Hähnchen hinzu und brate es an, bis die Stücke undurchsichtig sind (ca. 3-5 Minuten).",
+    "Füge die grünen Bohnen in die Pfanne und brate sie 1-2 Minuten weiter. Gib die Paprika und die rote Zwiebel in die Pfanne. Brate sie 1-2 Minuten weiter. Wenn sich Wasser in der Pfanne sammelt, erhöhe die Hitze leicht.",
+    "Füge die Zucchini in die Pfanne und brate sie weitere 2-3 Minuten, oder bis die Zucchini leicht weich wird. Schalte die Hitze aus, füge das Pesto hinzu und rühre, bis alles gleichmäßig bedeckt ist. Probiere das Gemüse und füge nach Belieben Salz, Pfeffer oder mehr Pesto hinzu.",
+    " Streue kurz vor dem Servieren etwas geriebenen Parmesan darüber.",
+]
+subheaders = []
+
+[ingredients]
+"#rote Paprika" = { amount = 1, unit = "", kind = 0 }
+"#Zucchini" = { amount = 2, unit = "", kind = 0 }
+"#rote Zwiebeln" = { amount = 0.5, unit = "", kind = 0 }
+"#Hähnchenbrust" = { amount = 600, unit = "g", kind = 1 }
+"#Sonnenblumenöl" = { amount = 2, unit = " EL", kind = 6 }
+"#grüne Bohnen" = { amount = 250, unit = "g", kind = 0 }
+"#Pesto" = { amount = 80, unit = "g", kind = 4 }
+"#Salz" = { amount = 0.125, unit = " TL", kind = 6 }
+"#Pfeffer" = { amount = 0.125, unit = " TL", kind = 6 }
+"#geriebener |Parmesan" = { amount = 1, unit = " EL", kind = 2 }

@@ -1,0 +1,31 @@
+index = 9
+name = "Yakisoba Huhn"
+cook_time = "15 min"
+prep_time = "15 min"
+portions = 6
+store_time = "3 Tage"
+energy = " kcal"
+kind = 2
+instructions = [
+    "Schäle den Ingwer entweder mit der Rückseite eines Löffels und reibe ihn anschließend mit einer Käse-Reibe. Schäle und reibe die Karotten mit einer groben Reibe. Schneide den Kohl, Brokkoli und das Huhn in mundgerechte Stücke.",
+    "Bringe einen mittelgroßen Topf mit Wasser zum Kochen für die Nudeln. Erhitze das Sonnenblumenöl in einer großen Pfanne bei mittlerer bis hoher Hitze. Wenn das Öl heiß ist, füge den geriebenen Ingwer hinzu und brate ihn etwa 30 Sekunden bis eine Minute an (es ist in Ordnung, wenn er an der Pfanne kleben bleibt, aber lasse ihn nicht verbrennen). Füge die Hähnchenstreifen hinzu und brate sie, bis sie nicht mehr rosa sind (etwa 5 Minuten).",
+    "Sobald das Hähnchen gar ist, füge das gesamte Gemüse hinzu. Rühre um und brate es etwa 5-10 Minuten. Währenddessen, wenn das Wasser kocht, füge die Nudeln hinzu und koche sie, bis sie zart sind (2-3 Minuten). Abgießen, zurück in den Topf geben (bei ausgeschaltetem Herd) und mit dem Sesamöl vermengen, damit sie nicht kleben.",
+    "Mische in einer kleinen Schüssel die Sojasauce, Worcestershiresauce, Ketchup, Sriracha und Zucker. Rühre um, bis Ketchup und Zucker aufgelöst sind. Gieße die Sauce in die Pfanne mit dem Hähnchen und Gemüse, während die Hitze noch bei mittelhoch ist. Füge die Nudeln hinzu, rühre um, um alles mit der Sauce zu bedecken, und erwärme es ein paar Minuten.",
+]
+subheaders = []
+
+[ingredients]
+"#Kohl" = { amount = 1, unit = " Kopf", kind = 0 }
+"#gelbe Zwiebel" = { amount = 1, unit = "", kind = 0 }
+"#Karotten" = { amount = 2, unit = "", kind = 0 }
+"#Brokkoli" = { amount = 1, unit = " Kopf", kind = 0 }
+"#frischer Ingwer" = { amount = 1, unit = " EL", kind = 0 }
+"#Hähnchenbrust" = { amount = 500, unit = "g", kind = 1 }
+"#Sonnenblumenöl" = { amount = 2, unit = " EL", kind = 6 }
+"#Ramen-Nudeln" = { amount = 200, unit = "g", kind = 3 }
+"#Sesamöl" = { amount = 1, unit = " TL", kind = 6 }
+"#Sojasauce" = { amount = 60, unit = " ml", kind = 6 }
+"#Worcestershiresauce" = { amount = 60, unit = " ml", kind = 6 }
+"#Ketchup" = { amount = 2, unit = " EL", kind = 6 }
+"#Sriracha" = { amount = 1, unit = " EL", kind = 6 }
+"#Zucker" = { amount = 1, unit = " EL", kind = 6 }
