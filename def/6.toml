@@ -1,6 +1,6 @@
 
 index = 6
-name = "Köfte mit geröstetem Gemüse"
+name = "Köfte mit|geröstetem Gemüse"
 cook_time = "40 min"
 prep_time = "15 min"
 portions = 4
