@@ -18,7 +18,7 @@ subheaders = ["Geröstete Süßkartoffel", "Ahorn Tahin Dressing", "Salat"]
 
 [ingredients]
 # Roasted Sweet Potatoes
-"#Süßkartoffeln" = { amount = 900, unit = "g", kind = 0, sub = 0 }
+"#Süßkartoffel" = { amount = 900, unit = "g", kind = 0, sub = 0 }
 "#Sonnenblumenöl" = { amount = 1, unit = " EL", kind = 6, sub = 0 }
 "#Zimt" = { amount = 0.25, unit = " TL", kind = 6, sub = 0 }
 "#gemahlener Kreuzkümmel" = { amount = 0.5, unit = " TL", kind = 6, sub = 0 }
