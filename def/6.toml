@@ -1,0 +1,42 @@
+
+index = 6
+name = "Köfte mit geröstetem Gemüse"
+cook_time = "40 min"
+prep_time = "15 min"
+portions = 4
+store_time = "4 Tage"
+energy = "672 kcal"
+kind = 2
+instructions = [
+    "Heize den Ofen auf 220 ºC vor. Würfle die Zucchini und den gelben Kürbis, hacke die Petersilie. Behalte ein Viertel der roten Zwiebel für die Fleischbällchen zurück und schneide die restlichen drei Viertel in 2,5 cm breite Stücke. Gib die gehackte Zucchini, den Kürbis, die Zwiebel und die Kirschtomaten auf ein großes Backblech.",
+    "Träufle das Olivenöl über das Gemüse und füge Knoblauchpulver, Oregano, Salz und Pfeffer hinzu. Vermische das Gemüse mit den Händen, sodass es gleichmäßig mit Öl und Gewürzen bedeckt ist. Verteile das Gemüse gleichmäßig auf dem Backblech und stelle es in den Ofen.",
+    "Röste das Gemüse im Ofen für 40 Minuten, bis es weich ist und die Ränder gebräunt sind. Rühre das Gemüse einmal nach der Hälfte der Garzeit um.",
+    "Während das Gemüse röstet, bereite die Fleischbällchen vor. Hacke das restliche Viertel der roten Zwiebel fein. Gib das Rinderhackfleisch, die gehackte Zwiebel, den gehackten Knoblauch, die Hälfte der gehackte Petersilie, Oregano, Kreuzkümmel, Nelken, Zimt und Salz in eine Schüssel. Mische die Zutaten, bis sie gut miteinander verbunden sind.",
+    "Forme aus der Fleischmischung 16 Fleischbällchen in Pingpongballgröße. Dies ist ein guter Zeitpunkt, um den Reis zu kochen, damit er gleichzeitig mit den Fleischbällchen und dem Gemüse fertig ist.",
+    "Erhitze eine große antihaftbeschichtete oder gusseiserne Pfanne bei mittlerer Hitze. Sobald die Pfanne heiß ist, füge 1 EL Sonnenblumenöl hinzu und schwenke sie, um die Oberfläche zu bedecken. Brate die Hälfte der Fleischbällchen an und wende sie vorsichtig, bis sie von allen Seiten gut gebräunt sind (ca. 7 Minuten insgesamt). Gib die gebratenen Fleischbällchen auf einen sauberen Teller, füge weiteres Öl in die Pfanne und brate die zweite Hälfte der Fleischbällchen auf die gleiche Weise.",
+    "Sobald die Fleischbällchen fertig sind und das Gemüse geröstet ist, richte die Mahlzeit an. Gib etwa 1 Tasse gekochten Reis in jeden Behälter, füge ein Viertel des gerösteten Gemüses hinzu und lege vier der Köfte-Fleischbällchen darauf. Garniere das Ganze mit dem Rest der gehackten Petersilie.",
+]
+subheaders = ["Geröstetes Gemüse", "Köfte"]
+
+[ingredients]
+"#Zucchini" = { amount = 1, unit = "", kind = 0, sub = 0 }
+"#gelber Kürbis" = { amount = 1, unit = "", kind = 0, sub = 0 }
+"#Kirschtomaten" = { amount = 400, unit = "g", kind = 0, sub = 0 }
+"#rote Zwiebel" = { amount = 1, unit = "", kind = 0, sub = 0 }
+"#Olivenöl" = { amount = 2, unit = " EL", kind = 6, sub = 0 }
+"#Knoblauchpulver" = { amount = 0.25, unit = " TL", kind = 6, sub = 0 }
+"#getrockneter Oregano" = [
+    { amount = 0.5, unit = " TL", kind = 6, sub = 0 },
+    { amount = 0.5, unit = " TL", kind = 6, sub = 1 },
+]
+"#Salz" = [{ kind = 6, sub = 0 }, { kind = 6, sub = 1 }]
+"#Pfeffer" = { kind = 6, sub = 0 }
+
+"#Rinderhackfleisch" = { amount = 500, unit = "g", kind = 1, sub = 1 }
+"#Knoblauchzehe" = { amount = 2, unit = "", kind = 0, sub = 1 }
+"#Petersilie" = { amount = 1, unit = " Bund", kind = 0, sub = 1 }
+"#Kreuzkümmel" = { amount = 0.25, unit = " TL", kind = 6, sub = 1 }
+"#Zimt" = { amount = 0.125, unit = " TL", kind = 6, sub = 1 }
+"#Gewürznelken" = { amount = 0.125, unit = " TL", kind = 6, sub = 1 }
+"#Sonnenblumenöl" = { amount = 2, unit = " EL", kind = 6, sub = 1 }
+"#Reis" = { amount = 2, unit = " Tassen", kind = 3, sub = 1 }
