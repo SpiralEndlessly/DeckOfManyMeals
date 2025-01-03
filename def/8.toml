@@ -1,0 +1,41 @@
+index = 8
+name = "Overnight Oats"
+cook_time = "5 min"
+prep_time = "480 min"
+portions = 3
+store_time = "4-5 Tage"
+energy = "302 kcal"
+kind = 1
+instructions = [
+    "Mische Haferflocken, braunen Zucker, Zimt, Chiasamen und Salz und verteile sie auf 3 Behälter.",
+    "Verteile die Milch auf die Behälter.",
+    "Rühre oder schüttle die Behälter, um alles gut zu vermischen und Klumpen von Chiasamen oder braunem Zucker zu vermeiden.",
+    "Stelle die Behälter in den Kühlschrank und lagere sie dort bis zu 5 Tage.",
+    "Direkt vor dem Verzehr, füg die restlichen Variationszutaten als Topping hinzu.",
+]
+subheaders = [
+    "Basis",
+    "PBJ Variation",
+    "Schoko Himbeere Variation",
+    "Bananen Walnuss Variation",
+]
+
+[ingredients]
+"#Haferflocken" = { amount = 150, unit = "g", kind = 3, sub = 0 }
+"#Milch" = { amount = 350, unit = " ml", kind = 2, sub = 0 }
+"#brauner Zucker" = { amount = 1.5, unit = " EL", kind = 6, sub = 0 }
+"#Zimt" = { amount = 0.25, unit = " TL", kind = 6, sub = 0 }
+"#Chiasamen" = { amount = 1.5, unit = " EL", kind = 3, sub = 0 }
+"#Salz" = { amount = 1, unit = "Prise", kind = 6, sub = 0 }
+
+"#Blaubeermarmelade" = { amount = 1, unit = " TL", kind = 4, sub = 1 }
+"#Erdnüsse" = { amount = 1, unit = " EL", kind = 3, sub = 1 }
+"#Erdnussbutter" = { amount = 1, unit = " EL", kind = 4, sub = 1 }
+"#Blaubeeren" = { amount = 1, unit = " handvoll", kind = 0, sub = 1 }
+
+"#Himbeermarmelade" = { amount = 1, unit = " TL", kind = 4, sub = 2 }
+"#Dunkle Schokoladen-|stückchen" = { amount = 1, unit = " EL", kind = 5, sub = 2 }
+"#Himbeeren" = { amount = 1, unit = " handvoll", kind = 0, sub = 2 }
+
+"#Walnüsse" = { amount = 1, unit = " EL", kind = 3, sub = 3 }
+"#Bananen" = { amount = 0.5, unit = "", kind = 0, sub = 3 }
