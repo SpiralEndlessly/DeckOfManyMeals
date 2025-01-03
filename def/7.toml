@@ -1,0 +1,32 @@
+index = 7
+name = "Instant Nudelsuppe"
+cook_time = "5 min"
+prep_time = "15 min"
+portions = 4
+store_time = "5 Tage"
+energy = "220 kcal"
+kind = 0
+instructions = [
+    "Stelle 4 Behälter für die Suppenportionen bereit, beispielsweise Einmachgläser.",
+    "Füge in jeden Behälter folgendes hinzu: 1 TL Brühwürfel, ½ TL Sojasauce, ¼ TL Sesamöl, ⅛ TL Knoblauchpulver, ⅛ TL Ingwerpulver, ½ TL Sesamsamen und ½ TL Sriracha.",
+    "Schäle und reibe die Karotte. Reinige und schneide die Champignons und Frühlingszwiebeln. Teile die Karotten, Champignons und Frühlingszwiebeln gleichmäßig auf die Gläser auf.",
+    "Bringe einen Topf mit Wasser zum Kochen für die Ramen-Nudeln. Entsorge die Gewürzpäckchen oder bewahre sie für eine spätere Verwendung auf. Gib die Nudeln in das kochende Wasser und koche sie nur etwa 2 Minuten lang, oder bis die Nudeln zart, aber noch leicht fest sind. Gieße die Nudeln in ein Sieb ab und spüle sie kurz mit kaltem Wasser ab, um sie abzukühlen. Lasse sie gut abtropfen.",
+    "Teile die Nudeln gleichmäßig auf die vier Behälter auf und füge dann für jeden Behälter eine Handvoll frischen Spinat hinzu.",
+    "Verschließe die Behälter und stelle sie in den Kühlschrank bis zur Verwendung (bis zu fünf Tage).",
+    "Wenn es Zeit ist zu essen, erwärme die Behälter leicht (mit den Händen oder lasse sie etwa 10 Minuten bei Raumtemperatur stehen) und füge dann 1-1,5 Tassen kochendes Wasser hinzu. Verschließe die Behälter und schüttle sie, um die Brühe aufzulösen. Lasse sie ein paar Minuten ruhen, dann rühre noch einmal mit einem Löffel oder einer Gabel, bevor du genießt.",
+]
+subheaders = []
+
+[ingredients]
+"#Gemüsebrühenpulver" = { amount = 4, unit = " TL", kind = 3 }
+"#Sojasauce" = { amount = 2, unit = " TL", kind = 6 }
+"#geröstetes Sesamöl" = { amount = 1, unit = " TL", kind = 6 }
+"#Knoblauchpulver" = { amount = 0.5, unit = " TL", kind = 6 }
+"#Ingwerpulver" = { amount = 0.5, unit = " TL", kind = 6 }
+"#Sesam" = { amount = 2, unit = " TL", kind = 6 }
+"#Sriracha" = { amount = 2, unit = " TL", kind = 6 }
+"#Karotten" = { amount = 1, unit = "", kind = 0 }
+"#Champignons" = { amount = 4, unit = "", kind = 0 }
+"#Frühlingszwiebeln" = { amount = 2, unit = "", kind = 0 }
+"#Instant-|Ramennudeln" = { amount = 2, unit = " Blöcke", kind = 3 }
+"#frischer Spinat" = { amount = 200, unit = "g", kind = 0 }
