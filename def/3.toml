@@ -1,0 +1,37 @@
+index = 3
+name = "Stir Fry Huhn"
+cook_time = "20 min"
+prep_time = "15 min"
+portions = 6
+store_time = "4 Tage"
+energy = "198 kcal"
+kind = 2
+instructions = [
+    "Beginne mit der Zubereitung der Stir Fry Sauce. Sojasauce, braunen Zucker, geröstetes Sesamöl, Knoblauch, Ingwer, Sriracha, Maisstärke und Wasser in einer kleinen Schüssel vermengen. Die Sauce beiseitestellen.",
+    "Den Brokkoli in kleine Röschen schneiden. Die rote Paprika, Zwiebel und Karotten in ähnlich große Stücke schneiden. Die Frühlingszwiebeln in Ringe schneiden. Alles Gemüse beiseitestellen.",
+    "Die Hähnchenbrust in kleine Stücke von etwa 1,5 cm schneiden.",
+    "Eine große Pfanne oder einen Wok bei mittelhoher Hitze erhitzen. Sobald sie heiß ist, 2 EL Sonnenblumenöl hinzufügen und die Pfanne schwenken, um die Oberfläche zu bedecken. Das Hähnchen hinzufügen und von allen Seiten anbraten, bis es braun ist. Darauf achten, das Hähnchen nicht zu lange zu garen. Sobald es gebräunt ist, aus der Pfanne nehmen, auf einen separaten Teller legen und beiseitestellen.",
+    "Im selben Wok die restlichen 1 EL Pflanzenöl zusammen mit den Karotten und dem Brokkoli hinzufügen. Eine Minute unter Rühren anbraten, bis der Brokkoli anfängt, hellgrün zu werden.",
+    "Die rote Paprika und die Zwiebel hinzufügen. Weitere 1-2 Minuten unter Rühren garen.",
+    "Die Stir Fry Sauce erneut kurz umrühren. Das angebratene Hähnchen zurück in die Pfanne geben und die Sauce darüber gießen. Alles gut umrühren und die Sauce zum Köcheln bringen. Dabei wird sie eindicken und glänzend werden. Noch 1-2 Minuten weitergaren, bis die gewünschte Konsistenz erreicht ist.",
+    "Vom Herd nehmen, mit Frühlingszwiebeln und Sesam bestreuen und servieren!",
+]
+subheaders = ["Stir Fry", "Stir Fry Sauce"]
+
+[ingredients]
+"#Sojasauce" = { amount = 80, unit = "ml", kind = 6, sub = 0 }
+"#brauner Zucker" = { amount = 3, unit = " EL", kind = 6, sub = 0 }
+"#geröstetes Sesamöl" = { amount = 2, unit = " TL", kind = 6, sub = 0 }
+"#Knoblauchzehen" = { amount = 2, unit = "", kind = 0, sub = 0 }
+"#geriebener Ingwer" = { amount = 2, unit = " TL", kind = 0, sub = 0 }
+"#Maisstärke" = { amount = 1.5, unit = " EL", kind = 5, sub = 0 }
+"#Wasser" = { amount = 80, unit = "ml", kind = 6, sub = 0 }
+"#Sriracha" = { amount = 1, unit = " TL", kind = 6, sub = 0 }
+"#Brokkoli" = { amount = 340, unit = "g", kind = 0, sub = 1 }
+"#Karotten" = { amount = 2, unit = "", kind = 0, sub = 1 }
+"#rote Paprika" = { amount = 1, unit = "", kind = 0, sub = 1 }
+"#gelbe Zwiebel" = { amount = 1, unit = "", kind = 0, sub = 1 }
+"#Frühlingszwiebeln" = { amount = 2, unit = "", kind = 0, sub = 1 }
+"#Hähnchenbrustfilets" = { amount = 700, unit = "g", kind = 1, sub = 1 }
+"#Sonnenblumenöl" = { amount = 3, unit = " EL", kind = 6, sub = 1 }
+"#Sesam" = { amount = 1, unit = " EL", kind = 6, sub = 1 }
