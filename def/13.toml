@@ -1,0 +1,32 @@
+index = 13
+name = "Sesam Tempeh Bowl"
+cook_time = "10 min"
+prep_time = "10 min"
+portions = 4
+store_time = "4 Tage"
+energy = "441.63 kcal"
+kind = 0
+instructions = [
+    "Frühlingszwiebel in kleine Scheiben schneiden. Reis nach Packungsanleitung kochen. Den Brokkoli in Röschen schneiden und in einem Topf gesalzenem Wasser 4 Minuten kochen.",
+    "Beginne nun mit der Zubereitung der Sesamsauce. In einer mittelgroßen Schüssel Sojasauce, 2 EL Wasser, Sesamöl, braunen Zucker, Reisessig, geriebenen Ingwer, gehackten Knoblauch, Sesamsamen und Maisstärke verrühren, bis sich die Maisstärke vollständig aufgelöst hat. Die Sauce beiseitestellen.",
+    "Den Tempeh-Block in 8 Quadrate schneiden und jedes Quadrat diagonal in ein Dreieck teilen. Jedes Dreieck auf die Seite legen und halbieren, sodass dünnere Dreiecke entstehen. Für das richtige Verhältnis zwischen Tempeh und Sauce sollten die Stücke nicht zu dick sein.",
+    "Den Tempeh in eine große Pfanne geben und 120 ml Wasser hinzufügen. Die Pfanne bei mittlerer bis hoher Hitze erhitzen und den Tempeh köcheln lassen, bis das gesamte Wasser verdampft ist (ca. 5-8 Minuten). Während des Köchelns den Tempeh ein paar Mal wenden.",
+    "Sobald das Wasser verdampft ist, die Hitze auf mittlere Stufe reduzieren und die Sesamsauce in die Pfanne geben. Die Pfanne ist noch sehr heiß, sodass die Sauce möglicherweise sofort eindickt. Den Tempeh in der Sauce wenden, bis diese angedickt ist (1-2 Minuten), dann die Pfanne sofort vom Herd nehmen, um weiteres Verdampfen und Eindicken zu vermeiden.",
+    "Zum Anrichten der Bowls je eine Tasse Reis in eine Schale geben, mit 1/4 des Sesam-Tempehs und 1/4 der Brokkoliröschen belegen und mit Frühlingszwiebeln bestreuen.",
+]
+subheaders = []
+
+[ingredients]
+"#Sojasauce" = { amount = 60, unit = "ml", kind = 6 }
+#"#Wasser" = { amount = 2, unit = " EL", kind = 3 }
+"#geröstetes Sesamöl" = { amount = 1, unit = " EL", kind = 6 }
+"#brauner Zucker" = { amount = 3, unit = " EL", kind = 6 }
+"#Reisessig" = { amount = 1, unit = " EL", kind = 6 }
+"#geriebener Ingwer" = { amount = 1, unit = " TL", kind = 0 }
+"#Knoblauchzehen" = { amount = 2, unit = "", kind = 0 }
+"#Sesam" = { amount = 1, unit = " EL", kind = 6 }
+"#Maisstärke" = { amount = 0.5, unit = " EL", kind = 5 }
+"#Tempeh" = { amount = 250, unit = "g", kind = 7 }
+"#Frühlingszwiebeln" = { amount = 2, unit = "", kind = 0 }
+"#Jasminreis" = { amount = 2, unit = " Tassen", kind = 3 }
+"#Brokkoli" = { amount = 500, unit = "g", kind = 0 }

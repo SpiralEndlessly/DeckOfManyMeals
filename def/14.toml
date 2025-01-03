@@ -1,0 +1,29 @@
+index = 14
+name = "Curry Tofu Salat"
+cook_time = "10 min"
+prep_time = "15 min"
+portions = 4
+store_time = "3 Tage"
+energy = "231.3 kcal"
+kind = 1
+instructions = [
+    "Den Tofu aus der Verpackung nehmen und in einem Sieb abtropfen lassen, während das Dressing zubereitet wird.",
+    "In einer mittelgroßen Schüssel Mayonnaise, Joghurt, Zitronensaft, Dijon-Senf, Honig, Currypulver, Salz und gehackten Koriander verrühren.",
+    "Den abgetropften Tofu in die Schüssel mit dem Dressing zerkrümeln und alles gut vermengen. Im Kühlschrank aufbewahren.",
+    "Kurz vor dem Verzehr mit Mischsalat, Cashewkernen und Cranberries kombinieren.",
+]
+subheaders = []
+
+[ingredients]
+"#Mayonnaise" = { amount = 60, unit = "ml", kind = 7 }
+"#griechisches Joghurt" = { amount = 60, unit = "ml", kind = 2 }
+"#Zitronensaft" = { amount = 1, unit = " TL", kind = 6 }
+"#Dijon-Senf" = { amount = 1, unit = " TL", kind = 6 }
+"#Honig" = { amount = 1, unit = " TL", kind = 6 }
+"#Currypulver" = { amount = 0.5, unit = " EL", kind = 6 }
+"#Salz" = { amount = 0.5, unit = " TL", kind = 6 }
+"#frischer Koriander" = { amount = 0.5, unit = "Bund", kind = 0 }
+"#Tofu" = { amount = 400, unit = "g", kind = 7 }
+"#Mischsalat" = { amount = 100, unit = "g", kind = 0 }
+"#Cashewkerne" = { amount = 1, unit = " Packung", kind = 3 }
+"#getrocknete |Cranberries" = { amount = 1, unit = "Packung", kind = 3 }
