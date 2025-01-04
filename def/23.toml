@@ -1,5 +1,5 @@
 index = 23
-name = "Artischocken und Quinoa Salat"
+name = "Artischocken und |Quinoa Salat"
 cook_time = "20 min"
 prep_time = "20 min"
 portions = 4
@@ -22,7 +22,7 @@ subheaders = []
 "#Knoblauchzehen" = { amount = 2, unit = "", kind = 0 }
 "#Salz" = { amount = 1, unit = "TL", kind = 6 }
 "#Pfeffer" = { kind = 6 }
-"#Artischockenherzen" = { amount = 1, unit = "Dose", kind = 4 }
+"#Artischockenherzen" = { amount = 1, unit = " Dose", kind = 4 }
 "#roter Paprika" = { amount = 1, unit = "", kind = 0 }
 "#Petersilie" = { amount = 1, unit = " Bund", kind = 0 }
 "#Kichererbsen" = { amount = 1, unit = " Dose", kind = 4 }

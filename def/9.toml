@@ -22,7 +22,7 @@ subheaders = []
 "#frischer Ingwer" = { amount = 1, unit = " EL", kind = 0 }
 "#Hähnchenbrust" = { amount = 500, unit = "g", kind = 1 }
 "#Sonnenblumenöl" = { amount = 2, unit = " EL", kind = 6 }
-"#Ramen-Nudeln" = { amount = 200, unit = "g", kind = 3 }
+"#Ramen Nudeln" = { amount = 200, unit = "g", kind = 3 }
 "#Sesamöl" = { amount = 1, unit = " TL", kind = 6 }
 "#Sojasauce" = { amount = 60, unit = " ml", kind = 6 }
 "#Worcestershiresauce" = { amount = 60, unit = " ml", kind = 6 }

@@ -39,5 +39,5 @@ subheaders = ["Geröstete Süßkartoffel", "Ahorn Tahin Dressing", "Salat"]
 "#Kohl" = { amount = 300, unit = "g", kind = 0, sub = 2 }
 "#großer Apfel" = { amount = 1, unit = "", kind = 0, sub = 2 }
 "#Kürbiskerne" = { amount = 250, unit = "g", kind = 3, sub = 2 }
-"#gehackte Pekannüsse" = { amount = 250, unit = "g", kind = 3, sub = 2 }
-"#getrocknete|Cranberries" = { amount = 250, unit = "g", kind = 3, sub = 2 }
+"#gehackte Pekan-|nüsse" = { amount = 250, unit = "g", kind = 3, sub = 2 }
+"#getrocknete |Cranberries" = { amount = 250, unit = "g", kind = 3, sub = 2 }

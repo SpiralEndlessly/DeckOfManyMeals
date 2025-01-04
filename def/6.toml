@@ -33,7 +33,7 @@ subheaders = ["Geröstetes Gemüse", "Köfte"]
 "#Pfeffer" = { kind = 6, sub = 0 }
 
 "#Rinderhackfleisch" = { amount = 500, unit = "g", kind = 1, sub = 1 }
-"#Knoblauchzehe" = { amount = 2, unit = "", kind = 0, sub = 1 }
+"#Knoblauchzehen" = { amount = 2, unit = "", kind = 0, sub = 1 }
 "#Petersilie" = { amount = 1, unit = " Bund", kind = 0, sub = 1 }
 "#Kreuzkümmel" = { amount = 0.25, unit = " TL", kind = 6, sub = 1 }
 "#Zimt" = { amount = 0.125, unit = " TL", kind = 6, sub = 1 }

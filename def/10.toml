@@ -33,7 +33,7 @@ subheaders = [
     { amount = 2, unit = " EL", kind = 6, sub = 0 },
     { amount = 0.5, unit = " EL", kind = 6, sub = 2 },
 ]
-"#Knoblauchzehen" = { amount = 1, unit = "", kind = 0, sub = 0 }
+"#Knoblauchzehe" = { amount = 1, unit = "", kind = 0, sub = 0 }
 "#brauner Zucker" = [
     { amount = 3, unit = " TL", kind = 6, sub = 0 },
     { amount = 1, unit = " TL", kind = 6, sub = 2 },
@@ -46,7 +46,6 @@ subheaders = [
 "#cremige Erdnuss-|butter" = { amount = 65, unit = "g", kind = 3, sub = 2 }
 "#Sriracha" = { amount = 1, unit = " EL", kind = 6, sub = 2 }
 "#geriebener Ingwer" = { amount = 1, unit = " TL", kind = 0, sub = 2 }
-#"#heißes Wasser" = { amount = 3, unit = " EL", kind = 3, sub = 2 } 
 
 "#Zuckerschoten" = { amount = 250, unit = "g", kind = 0, sub = 3 }
 "#Frühlingszwiebeln" = { amount = 2, unit = "", kind = 0, sub = 3 }

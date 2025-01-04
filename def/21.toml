@@ -38,13 +38,15 @@ subheaders = ["Drachensauce", "Nudeln", "Sesamdressing", "Brokkoli"]
 ]
 "#Erdnüsse" = { amount = 30, unit = "g", kind = 3, sub = 1 }
 
-"#Sonnenblumenöl" = { amount = 4, unit = " EL", kind = 6, sub = 2 }
+"#Sonnenblumenöl" = [
+    { amount = 4, unit = " EL", kind = 6, sub = 2 },
+    { amount = 2, unit = " EL", kind = 6, sub = 3 },
+]
 "#Reisessig" = { amount = 2, unit = " EL", kind = 6, sub = 2 }
 "#geröstetes Sesamöl" = { amount = 2, unit = " TL", kind = 6, sub = 2 }
 "#geriebener Ingwer" = { amount = 2, unit = " TL", kind = 0, sub = 2 }
 "#Sesam" = { amount = 1, unit = " EL", kind = 6, sub = 2 }
 
 "#Brokkoli" = { amount = 1, unit = "kg", kind = 0, sub = 3 }
-"#neutrales Öl" = { amount = 2, unit = " EL", kind = 6, sub = 3 }
 "#Salz" = { amount = 1, unit = " Prise", kind = 6, sub = 3 }
-"#Mandeln" = { amount = 80, unit = " g", kind = 0, sub = 3 }
+"#Mandeln" = { amount = 80, unit = "g", kind = 0, sub = 3 }

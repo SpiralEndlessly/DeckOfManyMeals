@@ -28,8 +28,8 @@ subheaders = ["Taco Gewürz", "Bowl"]
 
 "#Reis" = { amount = 2, unit = " Tassen", kind = 3, sub = 0 }
 "#Rinderhackfleisch" = { amount = 500, unit = "g", kind = 1, sub = 1 }
-"#Maiskörner" = { amount = 1, unit = " Dose", kind = 4, sub = 1 }
-"#Kidney Bohnen" = { amount = 1, unit = " Dose", kind = 4, sub = 1 }
+"#Mais" = { amount = 1, unit = " Dose", kind = 4, sub = 1 }
+"#Kidneybohnen" = { amount = 1, unit = " Dose", kind = 4, sub = 1 }
 "#Cheddar" = { amount = 100, unit = "g", kind = 2, sub = 1 }
 "#Salsa" = { amount = 300, unit = "ml", kind = 4, sub = 1 }
 "#Frühlingszwiebeln" = { amount = 2, unit = "", kind = 0, sub = 1 }

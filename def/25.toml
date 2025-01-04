@@ -11,7 +11,7 @@ instructions = [
     "Entferne den Tofu aus der Verpackung und wickele ihn in ein sauberes, fusselfreies Küchentuch oder mehrere Lagen Papierhandtücher. Lege den eingewickelten Tofu zwischen zwei Teller und stelle etwas Schweres darauf (z.B. einen Topf mit Wasser). Lasse den Tofu mindestens 30 Minuten pressen.",
     "Während der Tofu gepresst wird, bereite den Kohl vor. Schneide die Blätter in etwa einen Zentimeter breite Streifen. Spüle die Blätter gründlich in einem Sieb mit kaltem Wasser ab. Lasse sie abtropfen.",
     "Hacke den Knoblauch und gebe ihn zusammen mit einem Esslöffel Sonnenblumenöl in einen großen Topf. Brate ihn bei mittlerer Hitze etwa eine Minute lang an. Gib den gewaschenen Kohl dazu und rühre weiter, bis der Kohl zusammenfällt (ca. fünf Minuten). Rühre die Sojasauce, das Sesamöl und die Sesamsamen unter. Stelle den Kohl beiseite.",
-    "Bereite die Sauce für den Tofu vor. Mische in einer kleinen Schüssel die Chili-Knoblauchsoße, Sojasauce und braunen Zucker. Sobald der Tofu fertig gepresst ist, schneide ihn in kleine Würfel oder Rechtecke.",
+    "Bereite die Sauce für den Tofu vor. Mische in einer kleinen Schüssel die Chili-Knoblauch-Sauce, Sojasauce und braunen Zucker. Sobald der Tofu fertig gepresst ist, schneide ihn in kleine Würfel oder Rechtecke.",
     "Erhitze eine große Pfanne bei mittlerer bis hoher Hitze. Wenn die Pfanne heiß ist, gib einen Esslöffel Kochöl hinzu. Neige die Pfanne, um sicherzustellen, dass die Oberfläche vollständig bedeckt ist. Gib die Tofuwürfel in die Pfanne. Lasse sie braten, bis sie auf der Unterseite goldbraun sind, drehe sie dann um und brate sie auch auf der anderen Seite goldbraun. Wiederhole diesen Vorgang, bis die Stücke auf den meisten Seiten goldbraun sind. (Der Tofu bleibt zunächst kleben, bis er gebräunt ist, dann löst er sich von der Pfanne. Versuche also nicht, die Tofuwürfel zu früh zu bewegen oder zu wenden.)",
     "Sobald der Tofu auf den meisten Seiten goldbraun ist, schalte die Hitze aus, gieße die vorbereitete Chili-Knoblauchsoße in die Pfanne und rühre um, damit der Tofu gleichmäßig bedeckt wird. Die Sauce wird leicht eindicken und in den Tofu einziehen.",
     "Zum Zusammenstellen der Bowls gib je eine Tasse gekochten Reis in jede Schüssel, dazu 1/4 des Sesamkohls und 1/4 der Chili-Knoblauch-Tofu-Stücke. Schneide eine Limette in Keile und serviere jede Bowl mit einem oder zwei Keilen und ein paar Zweigen frischem Koriander. Presse frischen Limettensaft über die Bowl, bevor sie gegessen wird.",
@@ -30,9 +30,9 @@ subheaders = ["Sesamkohl", "Tofu", "Bowl"]
 "#Sesam" = { amount = 1, unit = " EL", kind = 6, sub = 0 }
 
 "#Tofu" = { amount = 400, unit = "g", kind = 1, sub = 0 }
-"#Chili Knoblauch Soße" = { amount = 2, unit = " EL", kind = 6, sub = 1 }
+"#Chili-Knoblauch-Sauce" = { amount = 2, unit = " EL", kind = 6, sub = 1 }
 "#brauner Zucker" = { amount = 1, unit = " EL", kind = 6, sub = 1 }
 
 "#brauner Reis" = { amount = 2, unit = " Tassen", kind = 3, sub = 2 }
 "#Limette" = { amount = 1, unit = "", kind = 0, sub = 2 }
-"#Koriander" = { amount = 1, unit = "Bund", kind = 0, sub = 2 }
+"#Koriander" = { amount = 1, unit = " Bund", kind = 0, sub = 2 }

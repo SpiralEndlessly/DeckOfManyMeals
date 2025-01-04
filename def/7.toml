@@ -28,5 +28,5 @@ subheaders = []
 "#Karotten" = { amount = 1, unit = "", kind = 0 }
 "#Champignons" = { amount = 4, unit = "", kind = 0 }
 "#Frühlingszwiebeln" = { amount = 2, unit = "", kind = 0 }
-"#Instant |Ramennudeln" = { amount = 2, unit = " Blöcke", kind = 3 }
+"#Instant |Ramen Nudeln" = { amount = 2, unit = " Blöcke", kind = 3 }
 "#frischer Spinat" = { amount = 200, unit = "g", kind = 0 }

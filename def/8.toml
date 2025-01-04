@@ -34,7 +34,7 @@ subheaders = [
 "#Blaubeeren" = { amount = 1, unit = " handvoll", kind = 0, sub = 1 }
 
 "#Himbeermarmelade" = { amount = 1, unit = " TL", kind = 4, sub = 2 }
-"#Dunkle Schokoladen-|stückchen" = { amount = 1, unit = " EL", kind = 5, sub = 2 }
+"#dunkle Schokoladen-|stückchen" = { amount = 1, unit = " EL", kind = 5, sub = 2 }
 "#Himbeeren" = { amount = 1, unit = " handvoll", kind = 0, sub = 2 }
 
 "#Walnüsse" = { amount = 1, unit = " EL", kind = 3, sub = 3 }

@@ -23,13 +23,12 @@ subheaders = ["Bowl", "Tahin-Sauce"]
     { amount = 0.25, unit = " TL", kind = 6, sub = 0 },
     { amount = 0.5, unit = " TL", kind = 6, sub = 1 },
 ]
-"#Kidney Bohnen" = { amount = 1, unit = " Dose", kind = 4, sub = 0 }
+"#Kidneybohnen" = { amount = 1, unit = " Dose", kind = 4, sub = 0 }
 "#Avocado" = { amount = 1, unit = "", kind = 0, sub = 0 }
 "#Jalapeño" = { amount = 1, unit = "", kind = 0, sub = 0 }
 "#Kürbiskerne" = { amount = 30, unit = "g", kind = 3, sub = 0 }
 
 "#Tahin" = { amount = 90, unit = "g", kind = 4, sub = 1 }
-#"#Wasser" = { amount = 0.33, unit = " Tasse", kind = 4, sub = 1 }
 "#Zitronensaft" = { amount = 60, unit = "ml", kind = 6, sub = 1 }
 "#Knoblauchzehe" = { amount = 1, unit = "", kind = 0, sub = 1 }
 "#gemahlener Kreuzkümmel" = { amount = 0.5, unit = " TL", kind = 6, sub = 1 }

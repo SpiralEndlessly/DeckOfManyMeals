@@ -1,5 +1,5 @@
 index = 17
-name = "Süßscharfe Tempeh Bowl"
+name = "Scharfe Tempeh Bowl"
 cook_time = "15 min"
 prep_time = "15 min"
 portions = 4
@@ -19,7 +19,7 @@ subheaders = ["Tempeh", "Polenta", "Toppings"]
 "#Tempeh" = { amount = 250, unit = "g", kind = 7, sub = 0 }
 #"#Wasser" = { amount = 120, unit = "ml", kind = 0, sub = 0 }
 "#Knoblauchpulver" = { amount = 0.5, unit = " TL", kind = 6, sub = 0 }
-"#geräuchertes Paprikapulver" = { amount = 0.5, unit = " TL", kind = 6, sub = 0 }
+"#geräuchertes Paprika-|pulver" = { amount = 0.5, unit = " TL", kind = 6, sub = 0 }
 "#Cayennepfeffer" = { amount = 0.5, unit = " TL", kind = 6, sub = 0 }
 "#Salz" = [
     { amount = 0.5, unit = " TL", kind = 6, sub = 0 },
@@ -36,4 +36,4 @@ subheaders = ["Tempeh", "Polenta", "Toppings"]
 "#Cheddar" = { amount = 60, unit = "g", kind = 2, sub = 2 }
 "#Avocado" = { amount = 1, unit = "", kind = 0, sub = 2 }
 "#Frühlingszwiebeln" = { amount = 2, unit = "", kind = 0, sub = 2 }
-"#Ranch-Dressing" = { amount = 4, unit = " EL", kind = 6, sub = 2 }
+"#Ranch-Dressing" = { amount = 4, unit = " EL", kind = 4, sub = 2 }

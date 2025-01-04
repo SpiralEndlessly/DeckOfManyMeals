@@ -40,7 +40,7 @@ subheaders = ["Marinade", "Huhn", "Knoblauchnudeln", "Toppings"]
 
 "#Hühnerbrust" = { amount = 800, unit = "g", kind = 1, sub = 1 }
 
-"#Glasudeln" = { amount = 250, unit = "g", kind = 3, sub = 2 }
+"#Glasnudeln" = { amount = 250, unit = "g", kind = 3, sub = 2 }
 "#Frühlingszwiebeln" = [
     { amount = 4, unit = "", kind = 0, sub = 2 },
     { amount = 1, unit = "", kind = 0, sub = 3 },

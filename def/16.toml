@@ -12,7 +12,7 @@ instructions = [
     "Die Süßkartoffeln 20 Minuten im Ofen rösten, dann umrühren und weitere 15 Minuten rösten, bis sie Blasen werfen und an den Rändern braun werden. Nach dem Rösten den restlichen Koriander darüber streuen und mit frischem Limettensaft beträufeln. Warm servieren.",
     "Die Enchilada-Sauce zubereiten: In einem mittelgroßen Topf Speiseöl, Mehl und Chilipulver vermengen. Die Mischung bei mittlerer Hitze erhitzen, bis sie zu blubbern beginnt. Die blubbernde Paste 1-2 Minuten unter ständigem Rühren kochen. Etwa einen halben Liter Wasser langsam unter ständigem Rühren hinzufügen. Tomatenmark, Kreuzkümmel, Knoblauchpulver, Cayennepfeffer, Kakaopulver und Salz hinzufügen. Die Sauce glatt rühren und bei mittlerer Hitze weiter erhitzen. Die Sauce zum Köcheln bringen, damit sie eindickt. Sobald die Sauce dickflüssig ist, die Hitze abstellen und die Sauce beiseite stellen.",
     "Den Ofen auf 175 °C vorheizen. Die Dose Bohnen abgießen und abspülen, dann in eine große Schüssel geben. Die Avocado würfeln, die Tomate würfeln, die Frühlingszwiebeln in Scheiben schneiden und eine Handvoll Korianderblätter von den Stielen zupfen. Alles zusammen mit den tiefgekühlten Maiskörnern in die Schüssel geben. Alles gut vermengen und mit etwas Salz und Knoblauchpulver abschmecken. ",
-    "Eine Auflaufform mit Antihaftspray einfetten. Jede Tortilla mit etwa 1/3 Tasse der Füllung befüllen und fest aufrollen. Die gefüllten Tortillas mit der Nahtseite nach unten in die Auflaufform legen. Sobald alle Enchiladas in der Form liegen, die Enchilada-Sauce darüber gießen. ",
+    "Eine Auflaufform mit etwas Sonnenblumenöl einfetten. Jede Tortilla mit etwas Füllung befüllen und fest aufrollen. Die gefüllten Tortillas mit der Nahtseite nach unten in die Auflaufform legen. Sobald alle Enchiladas in der Form liegen, die Enchilada-Sauce darüber gießen.",
     "Die Enchiladas 25-30 Minuten im vorgeheizten Ofen backen, bis sie vollständig durchgeheizt sind und die Sauce an den Rändern blubbert. Mit dem restlichen Koriander garnieren und genießen!",
 ]
 subheaders = ["Sauce", "Enchiladas", "Süßkartoffeln"]
@@ -23,7 +23,10 @@ subheaders = ["Sauce", "Enchiladas", "Süßkartoffeln"]
 "#Chilipulver" = { amount = 2, unit = " EL", kind = 6, sub = 0 }
 #"#Wasser" = { amount = 480, unit = "ml", kind = 0, sub = 0 }
 "#Tomatenmark" = { amount = 85, unit = "g", kind = 4, sub = 0 }
-"#gemahlener Kreuzkümmel" = { amount = 0.5, unit = " TL", kind = 6, sub = 0 }
+"#gemahlener Kreuzkümmel" = [
+    { amount = 0.5, unit = " TL", kind = 6, sub = 0 },
+    { amount = 1.25, unit = " TL", kind = 6, sub = 2 },
+]
 "#Knoblauchpulver" = [
     { amount = 0.5, unit = " TL", kind = 6, sub = 0 },
     { amount = 0.25, unit = " TL", kind = 6, sub = 1 },
@@ -49,5 +52,4 @@ subheaders = ["Sauce", "Enchiladas", "Süßkartoffeln"]
 
 "#Süßkartoffeln" = { amount = 850, unit = "g", kind = 0, sub = 2 }
 "#Olivenöl" = { amount = 2.5, unit = " EL", kind = 6, sub = 2 }
-"#Kreuzkümmel" = { amount = 1.25, unit = " TL", kind = 6, sub = 2 }
-"#frische Limette" = { amount = 1, unit = "", kind = 0, sub = 2 }
+"#Limette" = { amount = 1, unit = "", kind = 0, sub = 2 }

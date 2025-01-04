@@ -24,7 +24,7 @@ subheaders = ["Hackbraten", "Glasur", "Kartoffelpürre", "Bohnen"]
 
 [ingredients]
 "#Semmelbrösel" = { amount = 50, unit = "g", kind = 3, sub = 0 }
-"#geräuchertes Paprikapulver" = { amount = 1, unit = " TL", kind = 6, sub = 0 }
+"#geräuchertes Paprika-|pulver" = { amount = 1, unit = " TL", kind = 6, sub = 0 }
 "#Knoblauchpulver" = [
     { amount = 0.5, unit = " TL", kind = 6, sub = 0 },
     { amount = 0.25, unit = " TL", kind = 6, sub = 2 },

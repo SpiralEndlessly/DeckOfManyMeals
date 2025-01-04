@@ -25,13 +25,13 @@ subheaders = ["Suppe", "Käsemix"]
 "#Zucchini" = { amount = 1, unit = "", kind = 0, sub = 0 }
 "#gewürfelte Tomate" = { amount = 1, unit = " Dose", kind = 4, sub = 0 }
 "#Tomatensauce" = { amount = 1, unit = " Dose", kind = 4, sub = 0 }
-"#Italienische Gewürzmischung" = { amount = 1, unit = " EL", kind = 6, sub = 0 }
-"#Pulver für |#Gemüsebrühe" = { amount = 1000, unit = " ml", kind = 3, sub = 0 }
+"#Italienische Gewürz-|mischung" = { amount = 1, unit = " EL", kind = 6, sub = 0 }
+"Pulver für |#Gemüsebrühe" = { amount = 1000, unit = " ml", kind = 3, sub = 0 }
 "#Lasagneblätter" = { amount = 250, unit = " g", kind = 3, sub = 0 }
-"#Spinat" = { amount = 100, unit = " g", kind = 0, sub = 0 }
+"#Spinat" = { amount = 100, unit = "g", kind = 0, sub = 0 }
 
-"#Ricotta" = { amount = 400, unit = " g", kind = 2, sub = 1 }
-"#Mozzarella" = { amount = 100, unit = " g", kind = 2, sub = 1 }
-"#Parmesan" = { amount = 30, unit = " g", kind = 2, sub = 1 }
+"#Ricotta" = { amount = 400, unit = "g", kind = 2, sub = 1 }
+"#Mozzarella" = { amount = 100, unit = "g", kind = 2, sub = 1 }
+"#Parmesan" = { amount = 30, unit = "g", kind = 2, sub = 1 }
 "#Salz" = { amount = 0.125, unit = " TL", kind = 6, sub = 1 }
 "#Pfeffer" = { amount = 1, unit = " Prise", kind = 6, sub = 1 }

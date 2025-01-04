@@ -16,14 +16,14 @@ subheaders = []
 
 [ingredients]
 "#Mayonnaise" = { amount = 60, unit = "ml", kind = 7 }
-"#griechisches Joghurt" = { amount = 60, unit = "ml", kind = 2 }
+"#griechisches |Joghurt" = { amount = 60, unit = "ml", kind = 2 }
 "#Zitronensaft" = { amount = 1, unit = " TL", kind = 6 }
 "#Dijon-Senf" = { amount = 1, unit = " TL", kind = 6 }
 "#Honig" = { amount = 1, unit = " TL", kind = 6 }
 "#Currypulver" = { amount = 0.5, unit = " EL", kind = 6 }
 "#Salz" = { amount = 0.5, unit = " TL", kind = 6 }
-"#frischer Koriander" = { amount = 0.5, unit = "Bund", kind = 0 }
+"#frischer |Koriander" = { amount = 0.5, unit = " Bund", kind = 0 }
 "#Tofu" = { amount = 400, unit = "g", kind = 7 }
 "#Mischsalat" = { amount = 100, unit = "g", kind = 0 }
 "#Cashewkerne" = { amount = 1, unit = " Packung", kind = 3 }
-"#getrocknete |Cranberries" = { amount = 1, unit = "Packung", kind = 3 }
+"#getrocknete |Cranberries" = { amount = 1, unit = " Packung", kind = 3 }

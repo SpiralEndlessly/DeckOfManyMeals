@@ -7,6 +7,7 @@ store_time = "4 Tage"
 energy = "546.45 kcal"
 kind = 2
 instructions = [
+    "Hühnerbrühe nach Packungsanleitung kochen.",
     "In einer großen Pfanne den Reis, die Salsa, das Hühnchen, die Bohnen (abgetropft), das Chilipulver und die Hühnerbrühe vermengen. Rühren, bis alles gleichmäßig vermischt ist.",
     "Einen gut schließenden Deckel auf die Pfanne legen, die Hitze auf hoch stellen und zum Kochen bringen. Sobald die Pfanne kocht, die Hitze auf niedrig stellen und 15 Minuten köcheln lassen. Achten darauf, dass es die ganze Zeit köcheln , und die Hitze gegebenenfalls leicht erhöhen.",
     "Nach 15 Minuten die Hitze abstellen und die Pfanne mit dem Deckel 5 Minuten ruhen lassen. Den Deckel dann entfernen und die Mischung mit einer Gabel auflockern. Die gesamte Flüssigkeit sollte absorbiert sein und der Reis weich.",
@@ -18,7 +19,7 @@ subheaders = []
 "#Reis" = { amount = 1, unit = " Tasse", kind = 3 }
 "#Salsa" = { amount = 250, unit = "ml", kind = 4 }
 "#Hühnchen" = { amount = 500, unit = "g", kind = 1 }
-"#Kidney Bohnen" = { amount = 1, unit = " Dose", kind = 4 }
+"#Kidneybohnen" = { amount = 1, unit = " Dose", kind = 4 }
 "#Chilipulver" = { amount = 1, unit = " EL", kind = 6 }
 "Pulver für #|Hühnerbrühe" = { amount = 400, unit = "ml", kind = 3 }
 "#Cheddar" = { amount = 200, unit = "g", kind = 2, sub = 0 }
