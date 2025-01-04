@@ -1,0 +1,35 @@
+index = 24
+name = "Burrito Bowl"
+cook_time = "25 min"
+prep_time = "5 min"
+portions = 4
+store_time = "4 Tage"
+energy = "568.85 kcal"
+kind = 2
+instructions = [
+    "Koche zuerst den Reis. Während der Reis kocht, können die anderen Zutaten vorbereitet werden. Koche den Reis gemäß den Anweisungen auf der Verpackung.",
+    "Für das Gewürz, alle Zutaten in einer kleinen Schüssel vermengen und gut umrühren, bis sie gleichmäßig vermischt sind.",
+    "Füge das Hackfleisch in eine Pfanne und brate es bei mittlerer Hitze, bis es durchgegart ist. Je nach Fettgehalt des Fleisches muss eventuell etwas Öl hinzugefügt werden, damit es nicht anhaftet.",
+    "Sobald das Fleisch vollständig gegart ist, das Taco-Gewürz und 1/2 Tasse Wasser hinzufügen. Umrühren und das Fleisch und die Gewürze köcheln lassen, bis das Wasser eine sämige Konsistenz erreicht (ca. 5 Minuten). Die Hitze ausschalten und das Fleisch beiseite stellen.",
+    "Die Bohnen abspülen und abtropfen lassen, den Käse reiben und die Frühlingszwiebeln in Scheiben schneiden.",
+    "Sobald der Reis fertig ist, mit einer Gabel auflockern und auf vier Behälter verteilen. Die restlichen Zutaten (Taco-Fleisch, Mais, Bohnen, Käse, Salsa und Frühlingszwiebeln) ebenfalls auf die Behälter verteilen.",
+    "Die Schalen vor dem Essen für 1-2 Minuten wieder erhitzen, um den Käse zu schmelzen und das Fleisch sowie den Reis durchzuwärmen.",
+]
+subheaders = ["Taco Gewürz", "Bowl"]
+
+[ingredients]
+"#Chilipulver" = { amount = 1, unit = " EL", kind = 6, sub = 0 }
+"#geräuchertes Paprikapulver" = { amount = 1, unit = " TL", kind = 6, sub = 0 }
+"#gemahlener Kreuzkümmel" = { amount = 1, unit = " TL", kind = 6, sub = 0 }
+"#Cayennepfeffer" = { amount = 0.25, unit = " TL", kind = 6, sub = 0 }
+"#Oregano" = { amount = 0.5, unit = " TL", kind = 6, sub = 0 }
+"#Salz" = { amount = 0.5, unit = " TL", kind = 6, sub = 0 }
+"#Pfeffer" = { amount = 0.5, unit = " TL", kind = 6, sub = 0 }
+
+"#Reis" = { amount = 2, unit = " Tassen", kind = 3, sub = 0 }
+"#Rinderhackfleisch" = { amount = 500, unit = "g", kind = 1, sub = 1 }
+"#Maiskörner" = { amount = 1, unit = " Dose", kind = 4, sub = 1 }
+"#Kidney Bohnen" = { amount = 1, unit = " Dose", kind = 4, sub = 1 }
+"#Cheddar" = { amount = 100, unit = "g", kind = 2, sub = 1 }
+"#Salsa" = { amount = 300, unit = "ml", kind = 4, sub = 1 }
+"#Frühlingszwiebeln" = { amount = 2, unit = "", kind = 0, sub = 1 }

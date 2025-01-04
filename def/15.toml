@@ -1,0 +1,55 @@
+index = 15
+name = "Cheeseburger Hackbraten"
+cook_time = "80 min"
+prep_time = "40 min"
+portions = 4
+store_time = "3 Tage"
+energy = "669.21 kcal"
+kind = 2
+instructions = [
+    "Heize den Backofen auf 175 °C vor. Vermenge in einer kleinen Schüssel die Semmelbrösel, das geräucherte Paprikapulver, das Knoblauchpulver und das Salz. Verquirle in einer separaten kleinen Schüssel das Ei leicht.",
+    "Hacke die Zwiebel fein. Schneide den Cheddar grob, sodass die Stücke ungefähr die Größe einer kleinen Bohne haben.",
+    "Gib das Hackfleisch, die gewürzten Semmelbrösel, das verquirlte Ei, die gehackte Zwiebel und den geschnittenen Cheddar in eine Schüssel. Vermenge die Zutaten mit den Händen, bis sie gut miteinander vermischt sind.",
+    "Gib die Fleischmasse in eine Auflaufform oder auf ein Backblech mit Rand und forme sie zu einem Rechteck, etwa 18 cm lang, 10 cm breit und 4 cm dick.",
+    "Für die Glasur verrühre den Ketchup, den braunen Zucker, den Senf und die Worcestershire-Sauce. Verteile die Glasur gleichmäßig auf dem ungebackenen Hackbraten.",
+    "Backe den Hackbraten im vorgeheizten Ofen für 50–55 Minuten, bis die Kerntemperatur 71 °C erreicht. Nimm den Hackbraten aus dem Ofen, lass ihn 5–10 Minuten ruhen und schneide ihn anschließend in acht Scheiben. Serviere ihn.",
+    "Während der Hackbraten im Ofen brät, schäle die Kartoffeln und schneide sie in Würfel von etwa 2,5 cm. Gib die gewürfelten Kartoffeln in ein Sieb und spüle sie gut mit kaltem Wasser ab.",
+    "Gib die gespülten Kartoffeln in einen Topf und füge so viel Wasser hinzu, dass die Kartoffeln etwa 2,5 cm bedeckt sind. Salze das Wasser mit 1/2 TL Salz. Decke den Topf ab und bringe das Wasser bei hoher Hitze zum Kochen. Koche die Kartoffeln, bis sie sehr weich sind, etwa 7–10 Minuten.",
+    "Gieße die gekochten Kartoffeln in ein Sieb ab und spüle sie kurz mit heißem Wasser.",
+    "Gib die Butter, die Milch, die getrockneten Kräuter und Gewürze in den Topf, in dem die Kartoffeln gekocht wurden. Rühre die Mischung und erhitze sie bei niedriger Temperatur, bis die Butter geschmolzen und die Milch heiß ist.",
+    "Gib die Kartoffeln zurück in den Topf, schalte die Hitze aus und zerstampfe sie mit einem Kartoffelstampfer. Sobald die Kartoffeln größtenteils zerdrückt sind, benutze einen Handmixer, um sie kurz luftig und leicht zu schlagen. Schmecke die Kartoffeln ab und füge bei Bedarf noch etwas Salz hinzu. Serviere sie.",
+    "Koche die grünen Bohnen etwa 10 Minuten in einem Topf mit Salzwasser. Serviere sie.",
+]
+subheaders = ["Hackbraten", "Glasur", "Kartoffelpürre", "Bohnen"]
+
+[ingredients]
+"#Semmelbrösel" = { amount = 50, unit = "g", kind = 3, sub = 0 }
+"#geräuchertes Paprikapulver" = { amount = 1, unit = " TL", kind = 6, sub = 0 }
+"#Knoblauchpulver" = [
+    { amount = 0.5, unit = " TL", kind = 6, sub = 0 },
+    { amount = 0.25, unit = " TL", kind = 6, sub = 2 },
+]
+"#Salz" = [
+    { amount = 0.75, unit = " TL", kind = 6, sub = 0 },
+    { amount = 0.5, unit = " TL", kind = 6, sub = 2 },
+]
+"#großes Ei" = { amount = 1, unit = "", kind = 7, sub = 0 }
+"#Zwiebel" = { amount = 1, unit = "", kind = 0, sub = 0 }
+"#Cheddar" = { amount = 120, unit = "g", kind = 2, sub = 0 }
+"#Rinderhackfleisch" = { amount = 500, unit = "g", kind = 1, sub = 0 }
+
+"#Ketchup" = { amount = 100, unit = "g", kind = 6, sub = 1 }
+"#brauner Zucker" = { amount = 1, unit = " EL", kind = 6, sub = 1 }
+"#gelber Senf" = { amount = 1, unit = " TL", kind = 6, sub = 1 }
+"#Worcestershire-Sauce" = { amount = 1, unit = " TL", kind = 6, sub = 1 }
+
+"#mehlige Kartoffeln" = { amount = 750, unit = "g", kind = 0, sub = 2 }
+"#Butter" = { amount = 2.5, unit = " EL", kind = 2, sub = 2 }
+"#Vollmilch" = { amount = 80, unit = "ml", kind = 2, sub = 2 }
+"#getrocknete Petersilie" = { amount = 1, unit = " TL", kind = 6, sub = 2 }
+"#getrockneter Oregano" = { amount = 0.5, unit = " TL", kind = 6, sub = 2 }
+"#getrockneter Basilikum" = { amount = 0.5, unit = " TL", kind = 6, sub = 2 }
+"#Zwiebelpulver" = { amount = 0.25, unit = " TL", kind = 6, sub = 2 }
+"#Pfeffer" = { amount = 0.25, unit = " TL", kind = 6, sub = 2 }
+
+"#grüne Bohnen" = { amount = 500, unit = "g", kind = 0, sub = 3 }

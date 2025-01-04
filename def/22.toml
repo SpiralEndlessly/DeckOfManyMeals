@@ -1,0 +1,32 @@
+index = 22
+name = "Erdnuss Nudel Salat"
+cook_time = "10 min"
+prep_time = "20 min"
+portions = 4
+store_time = "4-5 Tage"
+energy = "637.13 kcal"
+kind = 0
+instructions = [
+    "Um das Erdnuss-Limetten-Dressing zuzubereiten, zuerst die Limette auspressen und dann den Saft mit allen restlichen Zutaten in einer Schüssel oder einem Mixer kombinieren. Gut verquirlen oder mixen, bis eine glatte Konsistenz entsteht. Das Dressing beiseitestellen.",
+    "Einen Topf mit Wasser zum Kochen bringen, um die Vollkorn-Spaghetti zu kochen. Die Spaghetti in der Mitte brechen, um sie später leichter in die Salatzutaten zu mischen. Sobald das Wasser kocht, die Spaghetti hinzufügen und weiter kochen, bis die Pasta zart ist. Abgießen und kurz mit kaltem Wasser abspülen, um die Pasta abzukühlen. Gut abtropfen lassen.",
+    "In der Zwischenzeit den Kohl so fein wie möglich schneiden, entweder mit einem Messer oder dem Reibeaufsatz einer Küchenmaschine. Die Karotten mit einer groben Käsereibe raspeln. Den Koriander und die Erdnüsse grob hacken. Die Frühlingszwiebeln in Ringe schneiden.",
+    "Die abgekühlte und gut abgetropfte Pasta in einer großen Schüssel mit dem Kohl, den Karotten, dem Koriander, den Frühlingszwiebeln und den Erdnüssen vermengen. Den Salat gut vermengen, bis alle Zutaten gleichmäßig verteilt sind.",
+    "Den Salat auf vier Behälter aufteilen und das Dressing auf vier kleinere Behälter verteilen.",
+]
+subheaders = ["Erdnuss Limetten Dressing", "Salat"]
+
+[ingredients]
+"#Erdnussbutter" = { amount = 3, unit = " EL", kind = 4, sub = 0 }
+"#brauner Zucker" = { amount = 1, unit = " EL", kind = 6, sub = 0 }
+"#Knoblauchzehe" = { amount = 1, unit = "", kind = 0, sub = 0 }
+"#geriebener Ingwer" = { amount = 0.5, unit = " TL", kind = 0, sub = 0 }
+"#Limette" = { amount = 1, unit = "", kind = 0, sub = 0 }
+"#Sojasauce" = { amount = 2, unit = " TL", kind = 6, sub = 0 }
+"#Sonnenblumenöl" = { amount = 4, unit = " EL", kind = 6, sub = 0 }
+
+"#Vollkorn-Spaghetti" = { amount = 250, unit = "g", kind = 3, sub = 1 }
+"#Rotkohl" = { amount = 800, unit = "g", kind = 0, sub = 1 }
+"#Karotten" = { amount = 2, unit = "", kind = 0, sub = 1 }
+"#Koriander" = { amount = 0.5, unit = " Bund", kind = 0, sub = 1 }
+"#Frühlingszwiebeln" = { amount = 4, unit = "", kind = 0, sub = 1 }
+"#Erdnüsse" = { amount = 80, unit = "g", kind = 4, sub = 1 }

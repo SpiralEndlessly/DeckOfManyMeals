@@ -1,0 +1,38 @@
+index = 19
+name = "Süßkartoffel Bowl mit |grüner Tahin-Sauce"
+cook_time = "45 min"
+prep_time = "20 min"
+portions = 4
+store_time = "5 Tage"
+energy = "693 kcal"
+kind = 0
+instructions = [
+    "Den rohen Bulgur in einen Topf geben und bei mittlerer Hitze anrösten. Den Bulgur 2-3 Minuten lang rösten und dabei gelegentlich umrühren, bis er einen nussigen oder gerösteten Duft verströmt, dann vom Herd nehmen. Zwei Tassen Wasser hinzufügen, gut umrühren, den Deckel auflegen und zum Kochen bringen. Sobald es kocht, die Hitze auf niedrig stellen und 12 Minuten mit geschlossenem Deckel köcheln lassen. Den Herd abstellen und den Bulgur 5 Minuten ruhen lassen.",
+    "Während der Bulgur köchelt, den Ofen auf 200°C vorheizen. Die Süßkartoffeln schälen und in 1,5 cm große Würfel schneiden. Die Würfel auf ein großes Backblech legen und mit Olivenöl beträufeln. Eine Prise Salz und Pfeffer hinzufügen, dann die Würfel gut schwenken, sodass sie mit Öl bedeckt sind. Die Süßkartoffeln im vorgeheizten Ofen 20 Minuten rösten, dann umrühren und weitere 10 Minuten rösten, bis sie weich sind und an den Rändern leicht gebräunt sind.",
+    "Während die Süßkartoffeln rösten, die grüne Tahin-Sauce vorbereiten. Alle Zutaten in einen Mixer oder eine Küchenmaschine geben und so lange pürieren, bis die Kräuter in sehr kleine Stücke zerkleinert sind und die Sauce eine hellgrüne Farbe hat. Abschmecken und bei Bedarf das Salz anpassen.",
+    "Die Avocado und die Jalapeño in Scheiben schneiden. Die Bohnen abspülen und abtropfen lassen.",
+    "Zum Zusammenstellen der Portionen 1/4 des gekochten und abgekühlten Bulgur in jede Schale geben. Die Süßkartoffeln, Bohnen, Avocado und Jalapeño gleichmäßig auf die Schalen verteilen. Kürbiskerne über jede Schale streuen. Die grüne Tahin-Sauce getrennt aufbewahren, bis kurz vor dem Servieren.",
+]
+subheaders = ["Bowl", "Tahin-Sauce"]
+
+[ingredients]
+"#Bulgur" = { amount = 180, unit = "g", kind = 3, sub = 0 }
+"#Süßkartoffeln" = { amount = 900, unit = "g", kind = 0, sub = 0 }
+"#Olivenöl" = { amount = 2, unit = " EL", kind = 6, sub = 0 }
+"#Salz" = [
+    { amount = 0.25, unit = " TL", kind = 6, sub = 0 },
+    { amount = 0.5, unit = " TL", kind = 6, sub = 1 },
+]
+"#Kidney Bohnen" = { amount = 1, unit = " Dose", kind = 4, sub = 0 }
+"#Avocado" = { amount = 1, unit = "", kind = 0, sub = 0 }
+"#Jalapeño" = { amount = 1, unit = "", kind = 0, sub = 0 }
+"#Kürbiskerne" = { amount = 30, unit = "g", kind = 3, sub = 0 }
+
+"#Tahin" = { amount = 90, unit = "g", kind = 4, sub = 1 }
+#"#Wasser" = { amount = 0.33, unit = " Tasse", kind = 4, sub = 1 }
+"#Zitronensaft" = { amount = 60, unit = "ml", kind = 6, sub = 1 }
+"#Knoblauchzehe" = { amount = 1, unit = "", kind = 0, sub = 1 }
+"#gemahlener Kreuzkümmel" = { amount = 0.5, unit = " TL", kind = 6, sub = 1 }
+"#Cayennepfeffer" = { amount = 0.25, unit = " TL", kind = 6, sub = 1 }
+"#Koriander" = { amount = 1, unit = " Bund", kind = 0, sub = 1 }
+"#Petersilie" = { amount = 1, unit = " Bund", kind = 0, sub = 1 }

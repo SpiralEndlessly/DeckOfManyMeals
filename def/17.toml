@@ -1,0 +1,39 @@
+index = 17
+name = "Süßscharfe Tempeh Bowl"
+cook_time = "15 min"
+prep_time = "15 min"
+portions = 4
+store_time = "5 Tage"
+energy = "667.15 kcal"
+kind = 1
+instructions = [
+    "Schneide den Tempeh-Block in 32 dünne Dreiecke. Schneide dazu den Block zuerst in 8 gleich große Quadrate, dann jedes Quadrat in zwei Dreiecke und schließlich jedes Dreieck der Dicke nach in der Mitte durch, um dünnere Stücke zu erhalten. Gib die Tempeh-Dreiecke in eine große antihaftbeschichtete Pfanne.",
+    "Bereite die Marinade zu, indem 120ml Wasser, Knoblauchpulver, geräuchertes Paprikapulver, Cayennepfeffer, Salz, brauner Zucker und Olivenöl miteinander vermischt werden. Gieße diese Mischung über den Tempeh in der Pfanne. Erhitze die Pfanne auf mittlerer bis hoher Stufe und lasse den Tempeh köcheln, während gelegentlich umgerührt wird, bis die Flüssigkeit verdampft ist und der Tempeh leicht bräunt (ca. 10 Minuten). Nimm den Tempeh anschließend vom Herd.",
+    "Für die Polenta Maismehl, Salz und 750ml Wasser in einem mittelgroßen Kochtopf mischen. Erhitze den Topf bei mittlerer bis hoher Hitze und bringe die Mischung unter ständigem Rühren mit einem Schneebesen zum Kochen. Sobald sie kocht, reduziere die Hitze auf mittlere bis niedrige Stufe und lasse sie weitere 2-3 Minuten köcheln, bis die Polenta eingedickt ist. Nimm die Polenta vom Herd und rühre die Butter unter.",
+    "Schneide die Frühlingswziebeln und Avocado in dünne Scheiben.",
+    "Baue die Bowls zusammen, indem 1/4 der Polenta als Basis verwendet wird. Füge 1/4 der süß-würzigen Tempeh-Dreiecke, 1/4 der abgespülten Kidney Bohnen, eine Prise geriebenen Cheddar (ca. 14 g), 1/4 der Avocado, etwas Frühlingszwiebeln und einen leichten Spritzer Ranch-Dressing hinzu.",
+]
+subheaders = ["Tempeh", "Polenta", "Toppings"]
+
+[ingredients]
+"#Tempeh" = { amount = 250, unit = "g", kind = 7, sub = 0 }
+#"#Wasser" = { amount = 120, unit = "ml", kind = 0, sub = 0 }
+"#Knoblauchpulver" = { amount = 0.5, unit = " TL", kind = 6, sub = 0 }
+"#geräuchertes Paprikapulver" = { amount = 0.5, unit = " TL", kind = 6, sub = 0 }
+"#Cayennepfeffer" = { amount = 0.5, unit = " TL", kind = 6, sub = 0 }
+"#Salz" = [
+    { amount = 0.5, unit = " TL", kind = 6, sub = 0 },
+    { amount = 0.5, unit = " TL", kind = 6, sub = 1 },
+]
+"#brauner Zucker" = { amount = 2, unit = " EL", kind = 6, sub = 0 }
+"#Olivenöl" = { amount = 1, unit = " EL", kind = 6, sub = 0 }
+
+"#Maismehl" = { amount = 120, unit = "g", kind = 5, sub = 1 }
+#"#Wasser" = { amount = 720, unit = "ml", kind = 0, sub = 1 }
+"#Butter" = { amount = 2, unit = " EL", kind = 2, sub = 1 }
+
+"#Kidney Bohnen" = { amount = 1, unit = " Dose", kind = 4, sub = 2 }
+"#Cheddar" = { amount = 60, unit = "g", kind = 2, sub = 2 }
+"#Avocado" = { amount = 1, unit = "", kind = 0, sub = 2 }
+"#Frühlingszwiebeln" = { amount = 2, unit = "", kind = 0, sub = 2 }
+"#Ranch-Dressing" = { amount = 4, unit = " EL", kind = 6, sub = 2 }

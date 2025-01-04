@@ -1,0 +1,53 @@
+index = 18
+name = "Sojaglasiertes Huhn"
+cook_time = "40 min"
+prep_time = "50 min"
+portions = 4
+store_time = "4 Tage"
+energy = "466.38 kcal"
+kind = 2
+instructions = [
+    "Füge die Austernsauce, den braunen Zucker, die Sojasauce und das Sesamöl in eine Schüssel und rühre, bis alles gut vermischt ist.",
+    "Bringe einen großen Topf mit Wasser zum Kochen und koche die Nudeln gemäß den Anweisungen auf der Verpackung. Lasse die gekochten Nudeln in einem Sieb abtropfen und stelle sie beiseite.",
+    "Während die Nudeln kochen, den Knoblauch fein hacken und die Frühlingszwiebeln in Scheiben schneiden. Schmelze die Butter in einer großen Pfanne bei mittlerer Hitze. Sobald die Butter geschmolzen und schaumig ist, den Knoblauch und die Frühlingszwiebeln hinzufügen und 1–2 Minuten anbraten, bis sie weich und duftend sind.",
+    "Nimm die Pfanne vom Herd. Gib die abgetropften Nudeln und die Austernsaucenmischung in die Pfanne und rühre gut um, bis die Nudeln gleichmäßig bedeckt sind. Falls die Nudeln klebrig oder schwer zu rühren sind, spritze etwas heißes Wasser darüber, um sie aufzulockern.",
+    "Den Knoblauch fein hacken und den Ingwer mit einer feinen Reibe raspeln. In einer kleinen Schüssel braunen Zucker, Sojasauce, Knoblauch, Ingwer, frisch gemahlenen Pfeffer (etwa 15 Drehungen einer Pfeffermühle) und Sonnenblumenöl verrühren. Die Hähnchenschenkel in eine flache Schüssel oder einen großen Zip-Lock-Beutel geben. Die Marinade darüber gießen und die Hähnchenstücke wenden, bis sie gut bedeckt sind. Die Hähnchenteile abdecken und mindestens 30 Minuten oder bis zu einem Tag im Kühlschrank marinieren lassen.",
+    "Eine große Pfanne bei mittlerer Hitze erhitzen. Sobald sie heiß ist, 1/2 EL Sonnenblumenöl hinzufügen und den Pfannenboden damit benetzen. Die Hälfte der Hähnchenteile in die Pfanne geben und auf beiden Seiten gut anbraten, bis sie durchgegart sind. Die gegarten Hähnchenteile auf einen sauberen Teller legen und mit der zweiten Portion wiederholen.",
+    "Sobald alle Hähnchenteile aus der Pfanne genommen sind, die restliche Marinade in die Pfanne gießen und zum Kochen bringen. Während des Kochens die Marinade mit einem Schneebesen rühren, um die Röststoffe vom Boden zu lösen. Weiterkochen lassen, bis die Marinade zu einer dickflüssigen Glasur reduziert ist. Den Herd ausschalten, die gegarten Hähnchenteile zurück in die Pfanne geben und in der Glasur wenden, bis sie gleichmäßig überzogen sind.",
+    "Den Brokkoli in kleine Stücke schneiden und in leicht gesalzenem, kochendem Wasser etwa 3 Minuten garen. Die restlichen Frühlingszwiebeln dünn schneiden und Nudeln, Hähnchen und Brokkoli in Behältern anrichten. Mit den geschnittenen Frühlingszwiebeln und Sesam garnieren.",
+]
+subheaders = ["Marinade", "Huhn", "Knoblauchnudeln", "Toppings"]
+
+[ingredients]
+"#brauner Zucker" = [
+    { amount = 2, unit = " EL", kind = 6, sub = 0 },
+    { amount = 2, unit = " EL", kind = 6, sub = 2 },
+]
+"#Sojasauce" = [
+    { amount = 5, unit = " TL", kind = 6, sub = 0 },
+    { amount = 2, unit = " TL", kind = 6, sub = 2 },
+]
+"#Knoblauchzehen" = [
+    { amount = 1, unit = "", kind = 0, sub = 0 },
+    { amount = 4, unit = "", kind = 0, sub = 2 },
+]
+"#geriebener Ingwer" = { amount = 0.5, unit = " EL", kind = 0, sub = 0 }
+"#Pfeffer" = { amount = 1, unit = " Prise", kind = 6, sub = 0 }
+"#Sonnenblumenöl" = [
+    { amount = 0.5, unit = " EL", kind = 6, sub = 0 },
+    { amount = 0.25, unit = " EL", kind = 6, sub = 1 },
+]
+
+"#Hühnerbrust" = { amount = 800, unit = "g", kind = 1, sub = 1 }
+
+"#Glasudeln" = { amount = 250, unit = "g", kind = 3, sub = 2 }
+"#Frühlingszwiebeln" = [
+    { amount = 4, unit = "", kind = 0, sub = 2 },
+    { amount = 1, unit = "", kind = 0, sub = 3 },
+]
+"#Butter" = { amount = 4, unit = " EL", kind = 2, sub = 2 }
+"#geröstetes Sesamöl" = { amount = 1, unit = " TL", kind = 6, sub = 2 }
+"#Austernsauce" = { amount = 2, unit = " EL", kind = 6, sub = 2 }
+
+"#Sesam" = { amount = 0.5, unit = " TL", kind = 6, sub = 3 }
+"#Brokkoli" = { amount = 500, unit = "g", kind = 0, sub = 3 }
