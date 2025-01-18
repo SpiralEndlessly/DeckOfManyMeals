@@ -36,4 +36,4 @@ subheaders = ["Tempeh", "Polenta", "Toppings"]
 "#Cheddar" = { amount = 60, unit = "g", kind = 2, sub = 2 }
 "#Avocado" = { amount = 1, unit = "", kind = 0, sub = 2 }
 "#Frühlingszwiebeln" = { amount = 2, unit = "", kind = 0, sub = 2 }
-"#Ranch-Dressing" = { amount = 4, unit = " EL", kind = 4, sub = 2 }
+"#Ranch-Dressing" = { amount = 4, unit = " EL", kind = 4, sub = 6 }

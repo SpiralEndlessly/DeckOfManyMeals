@@ -10,7 +10,7 @@ instructions = [
     "Spüle das Quinoa gründlich in einem feinen Drahtsieb ab. Gib das abgespülte Quinoa zusammen mit 1,75 Tassen Wasser in einen Topf. Setze einen Deckel auf den Topf, stelle die Hitze auf hohe Stufe und bringe das Wasser zum Kochen. Sobald es sprudelnd kocht, reduziere die Hitze auf niedrige Stufe und lasse es 15 Minuten lang köcheln (mit Deckel).",
     "Während das Quinoa kocht, bereite das Zitronen-Knoblauch-Dressing zu. Reibe die Schale der Zitrone ab und presse den Saft aus. Gib den Zitronensaft und 1 TL Zitronenschale in eine Schüssel oder ein Glas zusammen mit dem Olivenöl, dem fein gehackten Knoblauch, Salz und frisch gemahlenem Pfeffer (10-15 Umdrehungen einer Pfeffermühle). Mische die Zutaten oder verschließe das Glas und schüttle es, bis alles gut vermischt ist. Stelle das Dressing beiseite.",
     "Nachdem das Quinoa gekocht ist, verteile es in einer Auflaufform oder einer anderen breiten, flachen Form und stelle es ohne Deckel für etwa 15 Minuten in den Kühlschrank, um es abzukühlen.",
-    "Bereite die restlichen Salatzutaten vor. Lasse die Artischockenherzen abtropfen und hacke sie grob in kleinere Stücke. Würfle die rote Paprika fein. Hacke die Petersilie grob. Spüle und lasse die Kichererbsen abtropfen. Gib die Artischockenherzen, Paprika, Petersilie und Kichererbsen in eine große Schüssel.",
+    "Bereite die restlichen Salatzutaten vor. Lasse die Artischockenherzen abtropfen und hacke sie grob in kleinere Stücke. Würfle die rote Paprika fein. Hacke die Petersilie grob. Spüle und lasse die Kichererbsen abtropfen. Schneide den Feta in Würfel. Gib die Artischockenherzen, Paprika, Petersilie, Kichererbsen und Feta in eine große Schüssel.",
     "Sobald das Quinoa abgekühlt ist, gib es in die Schüssel mit den anderen Salatzutaten. Mische vorsichtig, dann träufle das Zitronen-Knoblauch-Dressing darüber. Mische erneut vorsichtig, bis alles gleichmäßig mit Dressing bedeckt ist.",
 ]
 subheaders = []
@@ -26,3 +26,4 @@ subheaders = []
 "#roter Paprika" = { amount = 1, unit = "", kind = 0 }
 "#Petersilie" = { amount = 1, unit = " Bund", kind = 0 }
 "#Kichererbsen" = { amount = 1, unit = " Dose", kind = 4 }
+"#Feta" = { amount = 250, unit = " g", kind = 2 }

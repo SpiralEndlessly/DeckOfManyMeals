@@ -29,4 +29,4 @@ subheaders = ["Erdnuss Limetten Dressing", "Salat"]
 "#Karotten" = { amount = 2, unit = "", kind = 0, sub = 1 }
 "#Koriander" = { amount = 0.5, unit = " Bund", kind = 0, sub = 1 }
 "#Frühlingszwiebeln" = { amount = 4, unit = "", kind = 0, sub = 1 }
-"#Erdnüsse" = { amount = 80, unit = "g", kind = 4, sub = 1 }
+"#Erdnüsse" = { amount = 80, unit = "g", kind = 3, sub = 1 }

@@ -43,7 +43,7 @@ subheaders = [
 "#Salz" = { amount = 0.5, unit = " TL", kind = 6, sub = 1 }
 "#geröstetes Sesamöl" = { amount = 1, unit = " EL", kind = 6, sub = 1 }
 
-"#cremige Erdnuss-|butter" = { amount = 65, unit = "g", kind = 3, sub = 2 }
+"#cremige Erdnuss-|butter" = { amount = 65, unit = "g", kind = 4, sub = 2 }
 "#Sriracha" = { amount = 1, unit = " EL", kind = 6, sub = 2 }
 "#geriebener Ingwer" = { amount = 1, unit = " TL", kind = 0, sub = 2 }
 

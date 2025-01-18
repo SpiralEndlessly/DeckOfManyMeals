@@ -22,7 +22,7 @@ subheaders = ["Geröstete Süßkartoffel", "Ahorn Tahin Dressing", "Salat"]
 "#Sonnenblumenöl" = { amount = 1, unit = " EL", kind = 6, sub = 0 }
 "#Zimt" = { amount = 0.25, unit = " TL", kind = 6, sub = 0 }
 "#gemahlener Kreuzkümmel" = { amount = 0.5, unit = " TL", kind = 6, sub = 0 }
-"#geräuchertes Paprikapulver" = { amount = 0.25, unit = " TL", kind = 6, sub = 0 }
+"#geräuchertes Paprika-|pulver" = { amount = 0.25, unit = " TL", kind = 6, sub = 0 }
 "#Salz" = [
     { amount = 0.25, unit = " TL", kind = 6, sub = 0 },
     { amount = 0.25, unit = " TL", kind = 6, sub = 1 },

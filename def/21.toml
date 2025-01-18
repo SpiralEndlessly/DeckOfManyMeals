@@ -49,4 +49,4 @@ subheaders = ["Drachensauce", "Nudeln", "Sesamdressing", "Brokkoli"]
 
 "#Brokkoli" = { amount = 1, unit = "kg", kind = 0, sub = 3 }
 "#Salz" = { amount = 1, unit = " Prise", kind = 6, sub = 3 }
-"#Mandeln" = { amount = 80, unit = "g", kind = 0, sub = 3 }
+"#Mandeln" = { amount = 80, unit = "g", kind = 3, sub = 3 }

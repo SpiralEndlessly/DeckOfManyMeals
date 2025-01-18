@@ -27,7 +27,7 @@ subheaders = ["Bohnen", "Ranch Dressing"]
 "#Kohl" = { amount = 1, unit = " Kopf", kind = 0, sub = 0 }
 "#Reis" = { amount = 1, unit = " Tasse", kind = 3, sub = 0 }
 
-"#Mayonnaise" = { amount = 60, unit = "ml", kind = 2, sub = 1 }
+"#Mayonnaise" = { amount = 60, unit = "ml", kind = 7, sub = 1 }
 "#Joghurt" = { amount = 60, unit = "ml", kind = 2, sub = 1 }
 "#Zitronensaft" = { amount = 1, unit = " TL", kind = 6, sub = 1 }
 "#Knoblauchpulver" = { amount = 0.25, unit = " TL", kind = 6, sub = 1 }

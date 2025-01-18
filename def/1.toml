@@ -17,10 +17,10 @@ instructions = [
 subheaders = []
 
 [ingredients]
-"#geräucherter Paprika" = { amount = 0.5, unit = " EL", kind = 6 }
+"#geräuchertes Paprika-|pulver" = { amount = 0.5, unit = " EL", kind = 6 }
 "#gemahlener Kümmel" = { amount = 1, unit = " TL", kind = 6 }
 "#Knoblauchzehen" = { amount = 2, unit = "", kind = 0 }
-"#Gelbe Zwiebel" = { amount = 1, unit = "", kind = 0 }
+"#gelbe Zwiebel" = { amount = 1, unit = "", kind = 0 }
 "#Petersilie" = { amount = 1, unit = " Bund", kind = 0 }
 "#Zitrone" = { amount = 1, unit = "", kind = 0 }
 "#Langkornreis" = { amount = 1, unit = " Tasse", kind = 3 }
@@ -29,7 +29,7 @@ subheaders = []
 "#geviertelte|Artischockenherzen" = { amount = 1, unit = " Dose", kind = 4 }
 "#Kichererbsen" = { amount = 1, unit = " Dose", kind = 4 }
 "#Olivenöl" = { amount = 2, unit = " EL", kind = 6 }
-"#Getrockneter Oregano" = { amount = 0.5, unit = " TL", kind = 6 }
+"#getrockneter Oregano" = { amount = 0.5, unit = " TL", kind = 6 }
 "#Cayennepfeffer" = { amount = 0.25, unit = " TL", kind = 6 }
 "#Pfeffer" = { kind = 6 }
 "#Salz" = { amount = 0.5, unit = " TL", kind = 6 }

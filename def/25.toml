@@ -29,7 +29,7 @@ subheaders = ["Sesamkohl", "Tofu", "Bowl"]
 "#geröstetes Sesamöl" = { amount = 1, unit = " TL", kind = 6, sub = 0 }
 "#Sesam" = { amount = 1, unit = " EL", kind = 6, sub = 0 }
 
-"#Tofu" = { amount = 400, unit = "g", kind = 1, sub = 0 }
+"#Tofu" = { amount = 400, unit = "g", kind = 7, sub = 0 }
 "#Chili-Knoblauch-Sauce" = { amount = 2, unit = " EL", kind = 6, sub = 1 }
 "#brauner Zucker" = { amount = 1, unit = " EL", kind = 6, sub = 1 }
 
