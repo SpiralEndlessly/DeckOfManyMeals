@@ -26,11 +26,11 @@ subheaders = [
 "#brauner Zucker" = { amount = 1.5, unit = " EL", kind = 6, sub = 0 }
 "#Zimt" = { amount = 0.25, unit = " TL", kind = 6, sub = 0 }
 "#Chiasamen" = { amount = 1.5, unit = " EL", kind = 3, sub = 0 }
-"#Salz" = { amount = 1, unit = "Prise", kind = 6, sub = 0 }
+"#Salz" = { amount = 1, unit = " Prise", kind = 6, sub = 0 }
 
 "#Blaubeermarmelade" = { amount = 1, unit = " TL", kind = 4, sub = 1 }
 "#Erdnüsse" = { amount = 1, unit = " EL", kind = 3, sub = 1 }
-"#knusprige Erdnussbutter" = { amount = 1, unit = " EL", kind = 4, sub = 1 }
+"#knusprige Erdnuss-|butter" = { amount = 1, unit = " EL", kind = 4, sub = 1 }
 "#Blaubeeren" = { amount = 1, unit = " handvoll", kind = 0, sub = 1 }
 
 "#Himbeermarmelade" = { amount = 1, unit = " TL", kind = 4, sub = 2 }
