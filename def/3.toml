@@ -7,7 +7,7 @@ store_time = "4 Tage"
 energy = "198 kcal"
 kind = 2
 instructions = [
-    "Beginne mit der Zubereitung der Stir Fry Sauce. Sojasauce, braunen Zucker, geröstetes Sesamöl, Knoblauch, Ingwer, Sriracha, Maisstärke und Wasser in einer kleinen Schüssel vermengen. Die Sauce beiseitestellen.",
+    "Beginne mit der Zubereitung der Stir Fry Sauce. Sojasauce, braunen Zucker, geröstetes Sesamöl, Knoblauch, Ingwer, Sriracha, Maisstärke und 80 ml Wasser in einer kleinen Schüssel vermengen. Die Sauce beiseitestellen.",
     "Den Brokkoli in kleine Röschen schneiden. Die rote Paprika, Zwiebel und Karotten in ähnlich große Stücke schneiden. Die Frühlingszwiebeln in Ringe schneiden. Alles Gemüse beiseitestellen.",
     "Die Hähnchenbrust in kleine Stücke von etwa 1,5 cm schneiden.",
     "Eine große Pfanne oder einen Wok bei mittelhoher Hitze erhitzen. Sobald sie heiß ist, 2 EL Sonnenblumenöl hinzufügen und die Pfanne schwenken, um die Oberfläche zu bedecken. Das Hähnchen hinzufügen und von allen Seiten anbraten, bis es braun ist. Darauf achten, das Hähnchen nicht zu lange zu garen. Sobald es gebräunt ist, aus der Pfanne nehmen, auf einen separaten Teller legen und beiseitestellen.",
@@ -25,7 +25,6 @@ subheaders = ["Stir Fry", "Stir Fry Sauce"]
 "#Knoblauchzehen" = { amount = 2, unit = "", kind = 0, sub = 0 }
 "#geriebener Ingwer" = { amount = 2, unit = " TL", kind = 0, sub = 0 }
 "#Maisstärke" = { amount = 1.5, unit = " EL", kind = 5, sub = 0 }
-"#Wasser" = { amount = 80, unit = "ml", kind = 6, sub = 0 }
 "#Sriracha" = { amount = 1, unit = " TL", kind = 6, sub = 0 }
 "#Brokkoli" = { amount = 340, unit = "g", kind = 0, sub = 1 }
 "#Karotten" = { amount = 2, unit = "", kind = 0, sub = 1 }

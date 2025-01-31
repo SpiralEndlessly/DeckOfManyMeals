@@ -7,12 +7,13 @@ store_time = "5 Tage"
 energy = "424.97 kcal"
 kind = 1
 instructions = [
+    "Koche 1 Liter Gemüsebrühe nach Anleitung in einem großen Topf.",
     "Schneide die Zwiebel und hacke den Knoblauch. Gib beides zusammen mit dem Olivenöl in einen großen Suppentopf. Sauté bei mittlerer Hitze, bis die Zwiebeln weich und durchsichtig sind (etwa 3-5 Minuten).",
     "Während die Zwiebeln und der Knoblauch braten, schäle und schneide die Karotten. Schneide die Zucchini und dann die Scheiben in Viertelrunden. Gib die Karotten und Zucchini in den Topf und brate sie etwa 2 Minuten weiter, bis die Zucchini etwas weich werden.",
-    "Füge die gewürfelten Tomaten (mit Saft), Tomatensauce, italienische Gewürzmischung und Gemüsebrühe in den Suppentopf. Rühre gut um. Setze einen Deckel auf den Topf, erhöhe die Hitze auf mittelhoch und bringe die Suppe zum Kochen.",
+    "Füge die gewürfelten Tomaten (mit Saft), Tomatensauce und italienische Gewürzmischung zur Gemüsebrühe in den Suppentopf. Rühre gut um. Setze einen Deckel auf den Topf, erhöhe die Hitze auf mittelhoch und bringe die Suppe zum Kochen.",
     "Während du auf das Kochen wartest, breche die Lasagneblätter in 2,5 cm große Stücke. Sobald die Suppe kocht, gib die zerbrochenen Lasagneblätter dazu und koche sie 10-12 Minuten weiter, bis die Nudeln zart sind.",
     "Während die Pasta in der Suppe kocht, vermenge den Ricotta, die Hälfte des geriebenen Mozzarella, Parmesan, Salz und frisch gemahlenen Pfeffer in einer Schüssel (bewahre den restlichen Mozzarella zum Bestreuen der Suppenschalen auf). Rühre alles gut um, bis die Käse und Gewürze gut vermischt sind.",
-    "Sobald die Pasta zart ist, füge den gefrorenen Spinat hinzu und rühre, bis der Spinat aufgetaut und gut in die Suppe eingemischt ist.",
+    "Sobald die Pasta zart ist, füge den Spinat hinzu und rühre, bis der Spinat gut in die Suppe eingemischt ist.",
     "Zum Servieren gebe ein Viertel der Käsemischung in jede Schüssel und fülle dann die heiße Suppe darüber. Bestreue sie mit einer Prise des restlichen geriebenen Mozzarellas.",
 ]
 subheaders = ["Suppe", "Käsemix"]

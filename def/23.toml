@@ -20,7 +20,7 @@ subheaders = []
 "#Zitrone" = { amount = 1, unit = "", kind = 0 }
 "#Olivenöl" = { amount = 4, unit = " EL", kind = 6 }
 "#Knoblauchzehen" = { amount = 2, unit = "", kind = 0 }
-"#Salz" = { amount = 1, unit = "TL", kind = 6 }
+"#Salz" = { amount = 1, unit = " TL", kind = 6 }
 "#Pfeffer" = { kind = 6 }
 "#Artischocken-|herzen" = { amount = 1, unit = " Dose", kind = 4 }
 "#roter Paprika" = { amount = 1, unit = "", kind = 0 }

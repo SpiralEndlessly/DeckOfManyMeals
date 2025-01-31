@@ -22,7 +22,7 @@ subheaders = [
 
 [ingredients]
 "#Haferflocken" = { amount = 150, unit = "g", kind = 3, sub = 0 }
-"#Milch" = { amount = 350, unit = " ml", kind = 2, sub = 0 }
+"#Milch" = { amount = 350, unit = "ml", kind = 2, sub = 0 }
 "#brauner Zucker" = { amount = 1.5, unit = " EL", kind = 6, sub = 0 }
 "#Zimt" = { amount = 0.25, unit = " TL", kind = 6, sub = 0 }
 "#Chiasamen" = { amount = 1.5, unit = " EL", kind = 3, sub = 0 }

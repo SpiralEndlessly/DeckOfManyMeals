@@ -26,7 +26,7 @@ subheaders = []
 "#Langkornreis" = { amount = 1, unit = " Tasse", kind = 3 }
 "Pulver für #Gemüse-|brühe" = { amount = 350, unit = "ml", kind = 3 }
 "#gehackte Tomaten" = { amount = 1, unit = " Dose", kind = 4 }
-"#geviertelte|Artischockenherzen" = { amount = 1, unit = " Dose", kind = 4 }
+"#geviertelte |Artischockenherzen" = { amount = 1, unit = " Dose", kind = 4 }
 "#Kichererbsen" = { amount = 1, unit = " Dose", kind = 4 }
 "#Olivenöl" = { amount = 2, unit = " EL", kind = 6 }
 "#getrockneter Oregano" = { amount = 0.5, unit = " TL", kind = 6 }
