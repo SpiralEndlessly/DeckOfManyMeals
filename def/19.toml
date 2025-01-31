@@ -31,7 +31,7 @@ subheaders = ["Bowl", "Tahin-Sauce"]
 "#Tahin" = { amount = 90, unit = "g", kind = 4, sub = 1 }
 "#Zitronensaft" = { amount = 60, unit = "ml", kind = 6, sub = 1 }
 "#Knoblauchzehe" = { amount = 1, unit = "", kind = 0, sub = 1 }
-"#gemahlener Kreuzkümmel" = { amount = 0.5, unit = " TL", kind = 6, sub = 1 }
+"#gemahlener Kreuz-|kümmel" = { amount = 0.5, unit = " TL", kind = 6, sub = 1 }
 "#Cayennepfeffer" = { amount = 0.25, unit = " TL", kind = 6, sub = 1 }
 "#Koriander" = { amount = 1, unit = " Bund", kind = 0, sub = 1 }
 "#Petersilie" = { amount = 1, unit = " Bund", kind = 0, sub = 1 }

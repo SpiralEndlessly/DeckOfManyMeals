@@ -23,7 +23,7 @@ subheaders = ["Sauce", "Enchiladas", "Süßkartoffeln"]
 "#Chilipulver" = { amount = 2, unit = " EL", kind = 6, sub = 0 }
 #"#Wasser" = { amount = 480, unit = "ml", kind = 0, sub = 0 }
 "#Tomatenmark" = { amount = 85, unit = "g", kind = 4, sub = 0 }
-"#gemahlener Kreuzkümmel" = [
+"#gemahlener Kreuz-|kümmel" = [
     { amount = 0.5, unit = " TL", kind = 6, sub = 0 },
     { amount = 1.25, unit = " TL", kind = 6, sub = 2 },
 ]
